@@ -1,6 +1,8 @@
 ---
 layout: home
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: ManyBabies
+subtitle: Multi-lab replications of influential experiments in developmental psychology
+use-site-title: true
+nav-short: true
+bigimg: /img/curiosity-1910023_cut2.jpg
 ---
-
