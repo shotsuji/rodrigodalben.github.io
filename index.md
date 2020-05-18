@@ -18,14 +18,14 @@ To-do:
 	- Project link images: color-blind friendly from Wong.
 --->
 
-**ManyBabies** is a collaborative project for replication and best practices in developmental psychology research. Our goal is to bring researchers together to address difficult outstanding theoretical and methodological questions about the nature of early development and how it is studied. For example:
+**ManyBabies (MB)** is a collaborative project for replication and best practices in developmental psychology research. Our goal is to bring researchers together to address difficult outstanding theoretical and methodological questions about the nature of early development and how it is studied. For example:
 
 <!--- Do infants prefer agents who are seen to help over those who are seen to hinder?-->
-- Infants prefer helpers or hinders?
+- Do infants prefer helpers over hinders?
 <!--- What factors shape infants’ preferences for familiar and novel stimuli? -->
-- Infants prefer novel or familiar stimuli?
+- When do infants like familiarity and when do they like novelty?
 <!--How does Infant Direct Speech preference vary across age?-->
-- Is Infant Direct Speech is more appealing to infants than Adult Directed Speech?
+- Do babies find infant-directed speech (babytalk) more interesting than adult-directed speech?
 
 <!--- Do infants show anticipatory looking that reflects the false belief of another agent?-->
 
@@ -46,14 +46,11 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
 		<h1>Projects</h1>
 	</header>
       <p>
-        The broader goals of <b>ManyBabies</b> come together in a set of collaborative projects. Which can be of three types: <i>main</i>, <i>spin-off</i>, and <i>secondary analysis</i>. Learn more and see a list of ongoing projects <a href="{{site.baseurl}}{% link projects.md %}">here</a>.
-      </p>
-      <p>
-        Main projects are listed below, please note that they can be Empiric or Methodologic in nature. Spin-off and secondary analysis for each project are contained under these pages.
+        The broader goals of <b>ManyBabies</b> come together in a set of collaborative projects. Different types of projects include W <i>main projects</i> (either empirical or methodological), <i>spin-off projects</i>, and <i>secondary analyses</i>. Learn more and see a list of ongoing projects <a href="{{site.baseurl}}{% link projects.md %}">here</a>.  Main projects, together with their affiliated spin-off projects and secondary analyses, are listed below:
       </p>
 
 	<header class="major">
-			<h3>Empiric</h3>
+			<h3>Empirical</h3>
 	</header>
 
 <br>
@@ -117,7 +114,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
 
 <br>
 	<header class="major">
-			<h3>Methodologic</h3>
+			<h3>Methodological</h3>
 	</header>
 <br>
 
