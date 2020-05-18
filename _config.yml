@@ -12,7 +12,7 @@ author: Michael C. Frank & Rodrigo Dal Ben
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Menu:
+  Menu    :
     - About: "about"
     - News: "news"
     - Projects: "projects"
