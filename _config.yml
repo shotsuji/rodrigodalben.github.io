@@ -1,5 +1,8 @@
 # --- Basic options --- #
 
+#fix timezone
+future: true
+
 # Name of website
 title: ManyBabies
 
