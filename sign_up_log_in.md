@@ -32,13 +32,10 @@ We are working with the [Psychological Accelerator](https://psysciacc.org/) team
 
 For now, please subscribe to the projects' list-serv that you are interested in contribute or e-mail the leaders.
 
-* MB general:
-  [list-serv](https://mailman.stanford.edu/mailman/listinfo/manybabies)
-  [e-mail](manybabies-gb@mailman.stanford.edu)
+* MB general [list-serv](https://mailman.stanford.edu/mailman/listinfo/manybabies), [e-mail](manybabies-gb@mailman.stanford.edu).
 
-* MB1:
-  [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1)
-  - Leaders: [Michael Frank](mcfrank@stanford.edu) and [Melanie Soderstrom](M_Soderstrom@umanitoba.ca).
+* MB1: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Michael Frank](mcfrank@stanford.edu), [Melanie Soderstrom](M_Soderstrom@umanitoba.ca).
+
 
 To stay up to date about **ManyBabies**, check the latest [news]({{site.baseurl}}/news/), join our general [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies) (please note that each project also has its own [project-specific listserv]({{site.baseurl}}/projects/)),
 
