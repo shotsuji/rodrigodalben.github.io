@@ -15,7 +15,7 @@ To-do:
 -->
 
 <!-- Description (300-word?) intro + method + result -->
-This study is an extension of ManyBabies 1, expanding the study of infants' preference for infant-directed speech to samples from bilingual populations and asks: Is the preference for infant-directed speech modulated by bilingual language exposure?
+This study is an extension of ManyBabies 1, asking whether and how bilingual language exposure affects infants' preference for infant-directed speech.
 
 ADD METHODS, RESULTS, PHOTOS
 
@@ -25,7 +25,7 @@ ADD METHODS, RESULTS, PHOTOS
 
 ### Status
 
-Stage 2 Registered Report under review.
+Stage 2 Registered Report under Stage 2 review.
 
 ### Links
 
