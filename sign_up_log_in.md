@@ -4,8 +4,9 @@ title: Sign up / Log in
 subtitle: Join MB!
 cover-img: /assets/img/siblings-862967.jpg #child-871845.jpg
 ---
-
-<!--
+ 
+ 
+<!-- testing - page is not building
 To-do:
 - login/password?
   - good example: https://member.psysciacc.org/register.php
