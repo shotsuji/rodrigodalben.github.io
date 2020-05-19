@@ -16,26 +16,26 @@ notes.
 - alphabetical order
 --->
 
-The broader goals of **ManyBabies** come together through collaborative projects. There are three types of projects:
+The broader goals of **ManyBabies (MB)** come together through collaborative projects. There are three types of projects:
 
-1. *Main project*: tests a question about infant development of key theoretical or methodological interest. They are numbered sequentially (e.g., MB1, MB2).
+1. *Main projects*: Test a question about infant development of key theoretical or methodological interest. They are numbered sequentially (e.g., MB1, MB2).
 
-2. *Spin-off project*: builds on the methods or data from the main projects and is pre-registered before all the data necessary to the spin-off project has been collected. Some examples include extending the study to a different population of infants (e.g., bilinguals; additional geographically/culturally diverse samples), follow-up data collection (e.g., longitudinal correlation with CDIs; test-retest reliability), and additional analyses of the main dataset beyond the main project that were pre-registered prior to the complection data collection (e.g., methods moderators). Spin-off projects are identified with a letter following the main project abbreviation (e.g., MB1B, for bilinguals; MB1L, for longitudinal);
+2. *Spin-off projects*: Build on the methods or data from the main projects and are pre-registered before all the data necessary to the spin-off project has been collected. Some examples include extending the study to a different population of infants (e.g., bilinguals; additional geographically/culturally diverse samples), follow-up data collection (e.g., longitudinal correlation with CDIs; test-retest reliability), and additional analyses of the main dataset beyond the main project that were pre-registered prior to the complection data collection (e.g., methods moderators). Spin-off projects are identified with a letter following the main project abbreviation (e.g., MB1B, for bilinguals; MB1L, for longitudinal);
 
-3. *Secondary analyses*: are conducted on publicly-available **MB** data, from the main project and/or spin-off projects. In some cases, these analysis may include additional data not collected as part of **ManyBabies**, for example if an individual lab investigates relationships between their lab’s ManyBabies data and other data collected by their lab.
+3. *Secondary analyses*: Are conducted on publicly-available **MB** data, from the main project and/or spin-off projects. In some cases, these analysis may include additional data not collected as part of **ManyBabies**, for example if an individual lab investigates relationships between their lab’s ManyBabies data and other data collected by their lab.
 
 **MB** currently counts 6 main projects, 5 spin-off projects, and 2 secondary analysis; listed below. Together, they account for 30+ research questions, hundreds of contributors, and thousands of infant participants.
 
 ### Main projects
 
-#### Empiric
+#### Empirical
 * [**MB1: Infant-Directed Speech Preference**]({{site.baseurl}}/MB1/)
 * [**MB2: Theory of Mind in Infancy** ]({{site.baseurl}}/MB2/)
 * [**MB3: Rule Learning**]({{site.baseurl}}/MB3/)
 * [**MB4: Moral Evaluation**]({{site.baseurl}}/MB4/)
 * [**MB5: The Hunter & Ames model of Infant Looking Preferences**]({{site.baseurl}}/MB5/)
 
-#### Methodologic
+#### Methodological
 * [**MB-AtHome: Online Infant Data Collection**]({{site.baseurl}}/MB-athome/)
 
 <!--alphabetical order -->
@@ -52,7 +52,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
 
 ***
 
-## Get involved & New Projects
+## Get Involved & New Projects
 
 We encourage everyone who is interested in developmental research to get involved! Please note that access to infants/infant lab is **not** a prerequisite. There are several ways to [learn more and contribute]({{site.baseurl}}/get_involved/).
 
