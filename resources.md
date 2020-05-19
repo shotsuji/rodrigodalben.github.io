@@ -40,9 +40,9 @@ Organized in alphabetical order
 
 ### Open Science
 
-* [Open Science Framework (OSF)](https://osf.io/)
-* [OSF - Metascience Collection](https://osf.io/collections/metascience/discover)
-* [OSF - Open Psychological Datasets](https://osf.io/th8ew/)
-* [Psychological Science Accelerator](https://psysciacc.org/)
-* [StudySwap](https://osf.io/meetings/StudySwap/)
-* [ManyPrimates](https://manyprimates.github.io/)
+* [Open Science Framework (OSF)](https://osf.io/): a free, open platform to support your research and enable collaboration.
+- [OSF - Metascience Collection](https://osf.io/collections/metascience/discover)
+- [OSF - Open Psychological Datasets](https://osf.io/th8ew/)
+* [Psychological Science Accelerator](https://psysciacc.org/): A globally distributed network of psychological science laboratories that coordinates data collection for democratically selected studies.
+* [StudySwap](https://osf.io/meetings/StudySwap/): A platform for interlab replication, collaboration, and research resource exchange.
+* [ManyPrimates](https://manyprimates.github.io/): A project that aims to facilitate collaboration across study sites in primate cognition research.
