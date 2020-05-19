@@ -16,15 +16,15 @@ notes.
 - alphabetical order
 --->
 
-The broader goals of **ManyBabies** come together in a set of collaborative projects. Which can be of three types:
+The broader goals of **ManyBabies** come together through collaborative projects. There are three types of projects:
 
 1. *Main project*: tests a question about infant development of key theoretical or methodological interest. They are numbered sequentially (e.g., MB1, MB2).
 
-2. *Spin-off project*: builds on the methods or data from the main projects and are pre-registered before all the data necessary to the spin-off project has been collected. Some examples include extending the study to a different population of infants (e.g., bilinguals; additional geographically/culturally diverse samples), follow-up data collection (e.g., longitudinal correlation with CDIs; test-retest reliability), and additional analyses of the main dataset beyond the main project that were pre-registered prior to the complection data collection (e.g., methods moderators). Spin-off projects are identified with a letter in front of the main project abbreviation (e.g., MB1B, for bilinguals; MB1L, for longitudinal);
+2. *Spin-off project*: builds on the methods or data from the main projects and is pre-registered before all the data necessary to the spin-off project has been collected. Some examples include extending the study to a different population of infants (e.g., bilinguals; additional geographically/culturally diverse samples), follow-up data collection (e.g., longitudinal correlation with CDIs; test-retest reliability), and additional analyses of the main dataset beyond the main project that were pre-registered prior to the complection data collection (e.g., methods moderators). Spin-off projects are identified with a letter following the main project abbreviation (e.g., MB1B, for bilinguals; MB1L, for longitudinal);
 
-3. *Secondary analyis*: are conducted on publicly-available **MB** data, from the main project and/or spin-off projects. In some cases, these analysis may include additional data not collected as part of **ManyBabies**, for example if an individual lab investigates relationships between their lab’s ManyBabies data and other data collected by their lab.
+3. *Secondary analyses*: are conducted on publicly-available **MB** data, from the main project and/or spin-off projects. In some cases, these analysis may include additional data not collected as part of **ManyBabies**, for example if an individual lab investigates relationships between their lab’s ManyBabies data and other data collected by their lab.
 
-Overall, **MB** currently counts 6 main projects, 5 spin-off projects, and 2 secondary analysis; listed below. Together, they account for 30+ research questions, hundreds of contributors, and thousands of infant participants.
+**MB** currently counts 6 main projects, 5 spin-off projects, and 2 secondary analysis; listed below. Together, they account for 30+ research questions, hundreds of contributors, and thousands of infant participants.
 
 ### Main projects
 
@@ -33,18 +33,18 @@ Overall, **MB** currently counts 6 main projects, 5 spin-off projects, and 2 sec
 * [**MB2: Theory of Mind in Infancy** ]({{site.baseurl}}/MB2/)
 * [**MB3: Rule Learning**]({{site.baseurl}}/MB3/)
 * [**MB4: Moral Evaluation**]({{site.baseurl}}/MB4/)
-* [**MB5: The Hunter & Ames model**]({{site.baseurl}}/MB5/)
+* [**MB5: The Hunter & Ames model of Infant Looking Preferences**]({{site.baseurl}}/MB5/)
 
 #### Methodologic
-* [**MB-AtHome**]({{site.baseurl}}/MB-athome/)
+* [**MB-AtHome: Online Infant Data Collection**]({{site.baseurl}}/MB-athome/)
 
 <!--alphabetical order -->
 ### Spin-off projects
-* [**MB1A: IDS preference in Africa**]({{site.baseurl}}/MB1A/)  
-* [**MB1B: The Infant-Directed Speech Preference in Bilingual Infants**]({{site.baseurl}}/MB1B/)    
-* [**MB1L: Longitudinal Vocabulary Followup**]({{site.baseurl}}/MB1L/)    
-* [**MB1N: Native Languages Follow-up Study**]({{site.baseurl}}/MB1N/)    
-* [**MB1T: Test-Retest Followup**]({{site.baseurl}}/MB1T/)    
+* [**MB1A: Infant-Directed Speech Preference in African Infants**]({{site.baseurl}}/MB1A/)  
+* [**MB1B: Infant-Directed Speech Preference in Bilingual Infants**]({{site.baseurl}}/MB1B/)    
+* [**MB1L: Longitudinal Vocabulary Follow-up**]({{site.baseurl}}/MB1L/)    
+* [**MB1N: Native Languages Follow-up**]({{site.baseurl}}/MB1N/)    
+* [**MB1T: Test-Retest Follow-up**]({{site.baseurl}}/MB1T/)    
 
 ### Secondary Analysis
 * [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
