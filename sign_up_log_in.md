@@ -28,4 +28,4 @@ To-do:
 
 -->
 
-Let's make this work! (waiting e-mail answer)
+Let's make this work! (working on an admin panel with PSA)
