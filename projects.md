@@ -8,8 +8,12 @@ To-do:
 - review short descriptions of spin-off projects, very repetitive.
 - more stats on the last paragraph?
 
-Obs.
+Suggestions:
+- Home Spin-offs as bullets right below their main project as spin-off numbers increase.
+
+notes.
 - research questions in "notes.txt"
+- alphabetical order
 --->
 
 The broader goals of **ManyBabies** come together in a set of collaborative projects. Which can be of three types:
@@ -36,16 +40,11 @@ Overall, **MB** currently counts 6 main projects, 5 spin-off projects, and 2 sec
 
 <!--alphabetical order -->
 ### Spin-off projects
-* [**MB1A: Africa**]({{site.baseurl}}/MB1A/)  
-  This project investigate if infants growing up in a range of African nations show a preference for infant-directed speech.
-* [**MB1B: The Infant-Directed Speech Preference in Bilingual Infants**]({{site.baseurl}}/MB1B/)  
-  This project tested if bilingual language exposure modulate the preference for infant-directed speech.  
-* [**MB1L: Longitudinal Vocabulary Followup**]({{site.baseurl}}/MB1L/)  
-  This project measures the relationship between infant-directed speech preference and later vocabulary outcomes.
-* [**MB1N: Native Languages Follow-up Study**]({{site.baseurl}}/MB1N/)  
-  This project tests whether infants across cultures/languages backgrounds display a preference for Infant Directed Speech in their own language.
-* [**MB1T: Test-Retest Followup**]({{site.baseurl}}/MB1T/)  
-  This project investigates the reliablity of the looking-time measures collected in MB1 main project.
+* [**MB1A: IDS preference in Africa**]({{site.baseurl}}/MB1A/)  
+* [**MB1B: The Infant-Directed Speech Preference in Bilingual Infants**]({{site.baseurl}}/MB1B/)    
+* [**MB1L: Longitudinal Vocabulary Followup**]({{site.baseurl}}/MB1L/)    
+* [**MB1N: Native Languages Follow-up Study**]({{site.baseurl}}/MB1N/)    
+* [**MB1T: Test-Retest Followup**]({{site.baseurl}}/MB1T/)    
 
 ### Secondary Analysis
 * [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)

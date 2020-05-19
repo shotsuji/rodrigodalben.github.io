@@ -80,11 +80,13 @@ You can get in touch with the Governing Board by e-mailing manybabies-gb [at] ma
 
 ***
 
-### Funding
+### Funding & Awards
 
 **ManyBabies** gratefully acknowledges funding from:
 + The [Association for Psychological Science](https://www.psychologicalscience.org), through a grant from the [Laura and John Arnold Foundation](http://www.laaf.org/ljaf).
 + A grant from the [Jacobs Foundation](https://jacobsfoundation.org).
+
+The [Society for the Improvement of Psychological Science (SIPS)](https://improvingpsych.org) has recognized the contribution of **ManyBabies 1** towards improving research practices and honored the project with a Mission Award at their 2019 annual conference in Rotterdam, The Netherlands.
 
 ***
 

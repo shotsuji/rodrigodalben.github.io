@@ -6,7 +6,7 @@ cover-img: /assets/img/curiosity-1910023_cut2.jpg
 ---
 
 <!---
-To-do: 
+To-do:
 - edited questions to a more "general" language, but looks imprecise.
 - "sign up" page: create a Admnistrative Panel with Erin from PSA.
 	- create the sign up/registration form
@@ -46,7 +46,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
 		<h1>Projects</h1>
 	</header>
       <p>
-        The broader goals of <b>ManyBabies</b> come together in a set of collaborative projects. Different types of projects include 5 <i>main projects</i> (either empirical or methodological), 5 <i>spin-off projects</i>, and 2 <i>secondary analyses</i>. Learn more and see a list of ongoing projects <a href="{{site.baseurl}}{% link projects.md %}">here</a>.  Main projects, together with their affiliated spin-off projects and secondary analyses, are listed below:
+        The broader goals of <b>ManyBabies</b> come together in a set of collaborative projects. Different types of projects include <i>main projects</i> (either empirical or methodological), <i>spin-off projects</i>, and <i>secondary analyses</i>. Learn more and see a list of ongoing projects <a href="{{site.baseurl}}{% link projects.md %}">here</a>.  Main projects, together with their affiliated spin-off projects and secondary analyses, are listed below:
       </p>
 
 	<header class="major">
