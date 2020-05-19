@@ -19,7 +19,7 @@ ADD METHODS, RESULTS, PHOTOS
 
 ### Leads
 
-[Natalia Kartushina](https://www.sv.uio.no/psi/english/people/aca/natalkar/) & [Virginie Durier](https://ethos.univ-rennes1.fr/interlocuteurs/virginie-durier)
+[Natalia Kartushina](https://www.sv.uio.no/psi/english/people/aca/natalkar/) and [Virginie Durier](https://ethos.univ-rennes1.fr/interlocuteurs/virginie-durier)
 
 ### Status
 

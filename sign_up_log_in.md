@@ -34,7 +34,18 @@ For now, please subscribe to the projects' list-serv that you are interested in 
 
 * MB general [list-serv](https://mailman.stanford.edu/mailman/listinfo/manybabies), [e-mail](manybabies-gb@mailman.stanford.edu).
 
+#### Main projects
 * MB1: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Michael Frank](mcfrank@stanford.edu), [Melanie Soderstrom](M_Soderstrom@umanitoba.ca).
+
+#### Spin-offs
+* [**MB1A: Africa**]({{site.baseurl}}/MB1A/): [Angeline Tsui](astsui@stanford.edu), [Casey Lew-Williams](caseylw@princeton.edu), [Michael Frank](mcfrank@stanford.edu).
+* [**MB1B: The Infant-Directed Speech Preference in Bilingual Infants**]({{site.baseurl}}/MB1B/): [listserv](https://groups.google.com/forum/#!forum/manybabies-bilingual), [Krista Byers-Heinlein](K.Byers@concordia.ca).
+* [**MB1L: Longitudinal Vocabulary Followup**]({{site.baseurl}}/MB1L/): [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Melanie Soderstrom](M_Soderstrom@umanitoba.ca).
+* [**MB1N: Native Languages Follow-up Study**]({{site.baseurl}}/MB1N/): [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Natalia Kartushina](natalia.kartushina@psykologi.uio.no), [Virginie Durier](virginie.durier@univ-rennes1.fr).
+* [**MB1T: Test-Retest Followup**]({{site.baseurl}}/MB1T/): [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Melanie Schreiner](melanie.schreiner@psych.uni-goettingen.de).
+
+#### Secondary Analysis
+
 
 
 To stay up to date about **ManyBabies**, check the latest [news]({{site.baseurl}}/news/), join our general [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies) (please note that each project also has its own [project-specific listserv]({{site.baseurl}}/projects/)),

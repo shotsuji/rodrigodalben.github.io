@@ -34,7 +34,10 @@ Overall, **MB** currently counts 6 main projects, 5 spin-off projects, and 2 sec
 #### Methodologic
 * [**MB-AtHome**]({{site.baseurl}}/MB-athome/)
 
+<!--alphabetical order -->
 ### Spin-off projects
+* [**MB1A: Africa**]({{site.baseurl}}/MB1A/)  
+  This project investigate if infants growing up in a range of African nations show a preference for infant-directed speech.
 * [**MB1B: The Infant-Directed Speech Preference in Bilingual Infants**]({{site.baseurl}}/MB1B/)  
   This project tested if bilingual language exposure modulate the preference for infant-directed speech.  
 * [**MB1L: Longitudinal Vocabulary Followup**]({{site.baseurl}}/MB1L/)  
@@ -43,8 +46,6 @@ Overall, **MB** currently counts 6 main projects, 5 spin-off projects, and 2 sec
   This project tests whether infants across cultures/languages backgrounds display a preference for Infant Directed Speech in their own language.
 * [**MB1T: Test-Retest Followup**]({{site.baseurl}}/MB1T/)  
   This project investigates the reliablity of the looking-time measures collected in MB1 main project.
-* [**MB1A: Africa**]({{site.baseurl}}/MB1A/)  
-  This project investigate if infants growing up in a range of African nations show a preference for infant-directed speech.
 
 ### Secondary Analysis
 * [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)

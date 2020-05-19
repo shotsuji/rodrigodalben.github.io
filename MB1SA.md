@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MB1SA
+title: MB1
 subtitle: Secondary Analysis
 ---
 
