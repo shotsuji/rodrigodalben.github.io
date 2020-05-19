@@ -6,11 +6,10 @@ cover-img: /assets/img/people-3120717.jpg
 
 <!---
 To do:
-- update funding information?
+- update funding information? MB2 Grant?
 - map (with governing board members)
   - psa uses flourish: https://public.flourish.studio/visualisation/1103427/
-      free if data is public. Do we want that?
-      manual update
+      - disavantages = 1. manual update, 2. points with the same coordinates overlap.
   - address and latitude/long being recovered automatically with google sheets (geom add-on)
   - make R version? tmap seems to be the way.
 
@@ -76,7 +75,7 @@ The current Governing Board members are:
 You can get in touch with the Governing Board by e-mailing manybabies-gb [at] mailman.stanford.edu.
 
 **Contributors** are scattered all around the world:
-<!-- from flourish -->
+<!-- map from flourish -->
 <div class="flourish-embed flourish-map" data-src="visualisation/2362473" data-url="https://flo.uri.sh/visualisation/2362473/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ***
