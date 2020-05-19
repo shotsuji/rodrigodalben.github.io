@@ -34,9 +34,9 @@ Organized in alphabetical order
 
 ### Open source software
 
-* [Open Sesame](https://osdoc.cogsci.nl/)
-* [Psychopy](https://www.psychopy.org/) & [PyHab](https://github.com/jfkominsky/PyHab/releases)
-* [R](https://www.r-project.org/) & [RStudio](https://rstudio.com/)
+* [Open Sesame](https://osdoc.cogsci.nl/): create experiments for psychology, neuroscience, and experimental economics.
+* [Psychopy](https://www.psychopy.org/) & [PyHab](https://github.com/jfkominsky/PyHab/): An free cross-platform packages allowing you run a wide range of in the behavioral sciences (neuroscience, psychology, psychophysics, linguistics...). PyHab is especially developed to measure looking time and manage stimulus presentation for infant research.
+* [R](https://www.r-project.org/) & [RStudio](https://rstudio.com/): A free software environment for statistical computing and graphics.
 
 ### Open Science
 
