@@ -30,24 +30,27 @@ To-do:
 
 We are working with the [Psychological Accelerator](https://psysciacc.org/) team to deliver a new sign-up page!
 
-For now, please subscribe to the projects' list-serv that you are interested in contribute or e-mail the leaders.
+Meanwhile, please subscribe to the [projects']({{site.baseurl}}/projects) list-serv that you are interested in taking part or e-mail the leaders.
 
-* MB general [list-serv](https://mailman.stanford.edu/mailman/listinfo/manybabies), [e-mail](manybabies-gb@mailman.stanford.edu).
+##### General
 
-#### Main projects
+* MB: [list-serv](https://mailman.stanford.edu/mailman/listinfo/manybabies), [governing board e-mail](manybabies-gb@mailman.stanford.edu).
+
+##### Main projects
 * MB1: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Michael Frank](mcfrank@stanford.edu), [Melanie Soderstrom](M_Soderstrom@umanitoba.ca).
+* MB2: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies2), [Hannes Rakoczy](hrakocz@uni-goettingen.de).
+* MB3: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies3), [Ingmar Visser](I.Visser@uva.nl), [Clartje Levelt](c.c.levelt@hum.leidenuniv.nl).
+* MB4: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies4), [Kelsey Lucca](Kelsey.Lucca@asu.edu), [Kiley Hamlin](kiley.hamlin@psych.ubc.ca).
+* MB5: [Jessica Kosie](jkosie@princeton.edu), [Martin Zettersten](zettersten@wisc.edu), [Christina Bergmann](Christina.Bergmann@mpi.nl), [Casey Lew-Williams](caseylw@princeton.edu).
+* MB-AtHome: [Lorijn Zaadnoordijk](Lorijn.Zaadnoordijk@tcd.ie), [Sho Tsuji](tsujish@gmail.com), [Christina Bergmann](Christina.Bergmann@mpi.nl), [Rhodri Cusack](rhodricusack [at] cusacklab.org).
 
-#### Spin-offs
-* [**MB1A: Africa**]({{site.baseurl}}/MB1A/): [Angeline Tsui](astsui@stanford.edu), [Casey Lew-Williams](caseylw@princeton.edu), [Michael Frank](mcfrank@stanford.edu).
-* [**MB1B: The Infant-Directed Speech Preference in Bilingual Infants**]({{site.baseurl}}/MB1B/): [listserv](https://groups.google.com/forum/#!forum/manybabies-bilingual), [Krista Byers-Heinlein](K.Byers@concordia.ca).
-* [**MB1L: Longitudinal Vocabulary Followup**]({{site.baseurl}}/MB1L/): [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Melanie Soderstrom](M_Soderstrom@umanitoba.ca).
-* [**MB1N: Native Languages Follow-up Study**]({{site.baseurl}}/MB1N/): [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Natalia Kartushina](natalia.kartushina@psykologi.uio.no), [Virginie Durier](virginie.durier@univ-rennes1.fr).
-* [**MB1T: Test-Retest Followup**]({{site.baseurl}}/MB1T/): [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Melanie Schreiner](melanie.schreiner@psych.uni-goettingen.de).
+##### Spin-offs
+* MB1A: [Angeline Tsui](astsui@stanford.edu), [Casey Lew-Williams](caseylw@princeton.edu), [Michael Frank](mcfrank@stanford.edu).
+* MB1B: [listserv](https://groups.google.com/forum/#!forum/manybabies-bilingual), [Krista Byers-Heinlein](K.Byers@concordia.ca).
+* MB1L: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Melanie Soderstrom](M_Soderstrom@umanitoba.ca).
+* MB1N: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Natalia Kartushina](natalia.kartushina@psykologi.uio.no), [Virginie Durier](virginie.durier@univ-rennes1.fr).
+* MB1T: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Melanie Schreiner](melanie.schreiner@psych.uni-goettingen.de).
 
-#### Secondary Analysis
-
-
-
-To stay up to date about **ManyBabies**, check the latest [news]({{site.baseurl}}/news/), join our general [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies) (please note that each project also has its own [project-specific listserv]({{site.baseurl}}/projects/)),
-
-Let's make this work! (working on an admin panel with PSA)
+##### Secondary Analysis
+* Comparison to meta-analytic data: [Christina Bergmann](Christina.Bergmann@mpi.nl), [Riccardo Fusaroli](fusaroli@cas.au.dk).
+* Analysis of supplemental demographic variables: [Melissa Kline](mekline@mit.edu).
