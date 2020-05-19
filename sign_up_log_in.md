@@ -33,6 +33,7 @@ Notes:
 
 We are working with the [Psychological Accelerator](https://psysciacc.org/) team to deliver a new sign-up page! Meanwhile, please subscribe to the [projects']({{site.baseurl}}/projects) list-serv that you are interested in taking part or e-mail the leaders.
 
+<!--
 ##### General
 * MB: [list-serv](https://mailman.stanford.edu/mailman/listinfo/manybabies), [governing board e-mail](manybabies-gb@mailman.stanford.edu).
 
@@ -54,3 +55,4 @@ We are working with the [Psychological Accelerator](https://psysciacc.org/) team
 ##### Secondary Analysis
 * Comparison to meta-analytic data: [Christina Bergmann](Christina.Bergmann@mpi.nl), [Riccardo Fusaroli](fusaroli@cas.au.dk).
 * Analysis of supplemental demographic variables: [Melissa Kline](mekline@mit.edu).
+--->
