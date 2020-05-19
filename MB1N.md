@@ -30,6 +30,7 @@ Stimulus creation and data collection.
 * **Materials, Protocols, and Documentation**: [MB1N-OSF](https://osf.io/9j87t/).
 * **Data and code**: To be released.
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
+* **News**: [MB1N-news]({{site.baseurl}}/tags/#MB1N).
 
 ### Get involved & Contribute
 

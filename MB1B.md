@@ -32,6 +32,7 @@ Stage 2 Registered Report under review.
 * **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).
 * **Data and code**: [MB1B-GitHub](https://github.com/manybabies/mb1b-analysis-public).
 * **Listserv**: [join here](https://groups.google.com/forum/#!forum/manybabies-bilingual).
+* **News**: [MB1B-news]({{site.baseurl}}/tags/#MB1B).
 
 ### Publications
 

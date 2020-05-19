@@ -31,7 +31,8 @@ Stimulus creation ongoing.
 
 * **Materials, Protocols, and Documentation**: [MB3-OSF](https://osf.io/kqu9v/).
 * **Data and code**: [MB3-GitHub](https://github.com/manybabies/mb3-rules).
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies3)
+* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies3).
+* **News**: [MB3-news]({{site.baseurl}}/tags/#MB3).
 
 ### Get involved & Contribute
 

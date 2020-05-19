@@ -32,7 +32,8 @@ Stage 1 Registered Report under revision. ??? DID NOT FIND
 
 * **Materials, Protocols, and Documentation**: [MB2-OSF](https://osf.io/jmuvd/).
 * **Data and code**: [MB2-GitHub](https://github.com/manybabies/mb2-analysis).
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies2)
+* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies2).
+* **News**: [MB2-news]({{site.baseurl}}/tags/#MB2).
 
 ### Get involved & Contribute
 

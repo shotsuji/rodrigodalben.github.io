@@ -30,8 +30,9 @@ Planning and surveys of the community’s needs and existing solutions, choosing
 
 * **Materials, Protocols, and Documentation**: [MB6-Google Drive](https://drive.google.com/drive/folders/1IW0daOJMG37FdoGkX1l12zhjPYSmPcD5).
 <!--* **Data and code**: [MB2-GitHub](https://github.com/manybabies/mb2-analysis).-->
-* **Listserv**: [join here](https://groups.google.com/forum/#!forum/infantlooksathome)
-* **Slack**: [join here](https://infantlooksathome.slack.com/#/)
+* **Listserv**: [join here](https://groups.google.com/forum/#!forum/infantlooksathome).
+* **Slack**: [join here](https://infantlooksathome.slack.com/#/).
+* **News**: [MB-AtHome-news]({{site.baseurl}}/tags/#MB-AtHome).
 
 ### Get involved & Contribute
 

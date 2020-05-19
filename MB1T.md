@@ -30,6 +30,7 @@ Final post-data collection manuscript preparation.
 * **Materials, Protocols, and Documentation**: [MB1T-OSF](https://osf.io/zeqka/).
 * **Data and code**: to be released.
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
+* **News**: [MB1T-news]({{site.baseurl}}/tags/#MB1T).
 
 ### Get involved & Contribute
 
