@@ -15,20 +15,24 @@ Organized in alphabetical order
 
 ### Infant research
 
+#### Labs
+
 * [Centre for Infant Cognition at UBC](https://cic.psych.ubc.ca/)
-* [Children Helping Science](https://childrenhelpingscience.com/)
 * [Concordia Infant Research Lab](http://infantresearch.ca/)
-* [Lookit](https://lookit.mit.edu/)
 * [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/)
-* [MetaLab](http://metalab.stanford.edu)
-* [Panda](https://www.discoveriesinaction.org/accounts/home/)
 * [Princeton Baby Lab](http://babylab.princeton.edu/)
 * [Stanford Language & Cognition Lab](http://langcog.stanford.edu/)
 * [The Child Lab](https://www.thechildlab.com/for-researchers)
 * [UM Baby Language Lab](https://babylanguagelab.org/)
-* [Web CDI](https://webcdi.stanford.edu/)
 
-### Open software
+#### Tools
+
+* [Children Helping Science](https://childrenhelpingscience.com/): a place where parents and researchers connect with each other to support research into child development!
+* [Lookit](https://lookit.mit.edu/): A project from MIT's Early Childhood Cognition Lab, with a new approach in developmental psychology: running online experiments.
+* [MetaLab](http://metalab.stanford.edu): A set of interactive tools for community-augmented meta-analysis, power analysis, and experimental planning in cognitive development research.
+* [Web CDI](https://webcdi.stanford.edu/): A pilot project of the MacArthur-Bates Communicative Development Inventory Advisory Board.
+
+### Open source software
 
 * [Open Sesame](https://osdoc.cogsci.nl/)
 * [Psychopy](https://www.psychopy.org/) & [PyHab](https://github.com/jfkominsky/PyHab/releases)
