@@ -6,7 +6,7 @@ cover-img: /assets/img/curiosity-1910023_cut2.jpg
 ---
 
 <!---
-To-do:
+To-do: 
 - edited questions to a more "general" language, but looks imprecise.
 - "sign up" page: create a Admnistrative Panel with Erin from PSA.
 	- create the sign up/registration form
