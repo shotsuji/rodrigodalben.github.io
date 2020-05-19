@@ -12,14 +12,14 @@ To-do:
 -->
 
 <!-- Description (300-word?) intro + method + result -->
-This is the first **ManyBabies** project. After much discussion and many collaborative decision-making, we decided to replicate a finding reported by the developmental literature that is believed to be robust: infants’ preference for infant-directed speech (IDS) over adult-directed speech (ADS).
+This is the first **ManyBabies** project. It replicates a finding reported by the developmental literature that is believed to be robust: infants’ preference for infant-directed speech (IDS) over adult-directed speech (ADS).
 
-<!-- add in-line image; alligned with the next paragraph -->
+<!-- add in-line image (~ 250px looks ok); alligned with the next paragraph -->
 <img style="float: right;" src="/assets/img/avatar-icon_placeholder.png">
 
 IDS speech is usually higher pitched, has greater pitch excursions, and shorter utterances when compared to ADS. We asked if infants have a preference for infant-directed speech? How does this preference vary across age, method, and native language background?
 
-Sixty-seven labs, summing N contributors, participated in the study. By focusing on a single phenomenon across labs, we were able to assess its overall replicability and investigate the factors moderating it.
+Sixty-seven labs, summing 149 contributors, participated in the study. By focusing on a single phenomenon across labs, we were able to assess its overall replicability and investigate the factors moderating it.
 
 
 <!-- add in-line image; alligned with the next paragraph -->
