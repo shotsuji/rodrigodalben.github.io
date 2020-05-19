@@ -28,13 +28,10 @@ To-do:
 
 -->
 
-We are working with the [Psychological Accelerator](https://psysciacc.org/) team to deliver a new sign-up page!
-
-Meanwhile, please subscribe to the [projects']({{site.baseurl}}/projects) list-serv that you are interested in taking part or e-mail the leaders.
+We are working with the [Psychological Accelerator](https://psysciacc.org/) team to deliver a new sign-up page! Meanwhile, please subscribe to the [projects']({{site.baseurl}}/projects) list-serv that you are interested in taking part or e-mail the leaders.
 
 ##### General
-
-* MB: [list-serv](https://mailman.stanford.edu/mailman/listinfo/manybabies), [governing board e-mail](manybabies-gb@mailman.stanford.edu).
+* MB: [list-serv](https://mailman.stanford.edu/mailman/listinfo/manybabies), [governing board e-mail](mailto: manybabies-gb@mailman.stanford.edu).
 
 ##### Main projects
 * MB1: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Michael Frank](mcfrank@stanford.edu), [Melanie Soderstrom](M_Soderstrom@umanitoba.ca).
