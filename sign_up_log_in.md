@@ -4,8 +4,8 @@ title: Sign up / Log in
 subtitle: Join MB!
 cover-img: /assets/img/siblings-862967.jpg #child-871845.jpg
 ---
- 
- 
+
+
 <!-- testing - page is not building
 To-do:
 - login/password?
@@ -34,26 +34,24 @@ Notes:
 
 We are working with the [Psychological Accelerator](https://psysciacc.org/) team to deliver a new sign-up page! Meanwhile, please subscribe to the [projects']({{site.baseurl}}/projects) list-serv that you are interested in taking part or e-mail the leaders.
 
-<!--
 ##### General
-* MB: [list-serv](https://mailman.stanford.edu/mailman/listinfo/manybabies), [governing board e-mail](manybabies-gb@mailman.stanford.edu).
+* MB: [list-serv](https://mailman.stanford.edu/mailman/listinfo/manybabies), [governing board e-mail](mailto:manybabies-gb@mailman.stanford.edu).
 
 ##### Main projects
-* MB1: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Michael Frank](mcfrank@stanford.edu), [Melanie Soderstrom](M_Soderstrom@umanitoba.ca).
+* MB1: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Michael Frank](mailto:mcfrank@stanford.edu), [Melanie Soderstrom](mailto:M_Soderstrom@umanitoba.ca).
 * MB2: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies2), [Hannes Rakoczy](hrakocz@uni-goettingen.de).
-* MB3: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies3), [Ingmar Visser](I.Visser@uva.nl), [Clartje Levelt](c.c.levelt@hum.leidenuniv.nl).
-* MB4: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies4), [Kelsey Lucca](Kelsey.Lucca@asu.edu), [Kiley Hamlin](kiley.hamlin@psych.ubc.ca).
-* MB5: [Jessica Kosie](jkosie@princeton.edu), [Martin Zettersten](zettersten@wisc.edu), [Christina Bergmann](Christina.Bergmann@mpi.nl), [Casey Lew-Williams](caseylw@princeton.edu).
-* MB-AtHome: [Lorijn Zaadnoordijk](Lorijn.Zaadnoordijk@tcd.ie), [Sho Tsuji](tsujish@gmail.com), [Christina Bergmann](Christina.Bergmann@mpi.nl), [Rhodri Cusack](rhodricusack [at] cusacklab.org).
+* MB3: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies3), [Ingmar Visser](mailto:I.Visser@uva.nl), [Clartje Levelt](mailto:c.c.levelt@hum.leidenuniv.nl).
+* MB4: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies4), [Kelsey Lucca](mailto:Kelsey.Lucca@asu.edu), [Kiley Hamlin](mailto:kiley.hamlin@psych.ubc.ca).
+* MB5: [Jessica Kosie](mailto:jkosie@princeton.edu), [Martin Zettersten](mailto:zettersten@wisc.edu), [Christina Bergmann](mailto:Christina.Bergmann@mpi.nl), [Casey Lew-Williams](mailto:caseylw@princeton.edu).
+* MB-AtHome: [Lorijn Zaadnoordijk](mailto:Lorijn.Zaadnoordijk@tcd.ie), [Sho Tsuji](mailto:tsujish@gmail.com), [Christina Bergmann](mailto:Christina.Bergmann@mpi.nl), [Rhodri Cusack](mailto:rhodricusack [at] cusacklab.org).
 
 ##### Spin-offs
-* MB1A: [Angeline Tsui](astsui@stanford.edu), [Casey Lew-Williams](caseylw@princeton.edu), [Michael Frank](mcfrank@stanford.edu).
-* MB1B: [listserv](https://groups.google.com/forum/#!forum/manybabies-bilingual), [Krista Byers-Heinlein](K.Byers@concordia.ca).
-* MB1L: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Melanie Soderstrom](M_Soderstrom@umanitoba.ca).
-* MB1N: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Natalia Kartushina](natalia.kartushina@psykologi.uio.no), [Virginie Durier](virginie.durier@univ-rennes1.fr).
-* MB1T: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Melanie Schreiner](melanie.schreiner@psych.uni-goettingen.de).
+* MB1A: [Angeline Tsui](mailto:astsui@stanford.edu), [Casey Lew-Williams](mailto:caseylw@princeton.edu), [Michael Frank](mailto:mcfrank@stanford.edu).
+* MB1B: [listserv](https://groups.google.com/forum/#!forum/manybabies-bilingual), [Krista Byers-Heinlein](mailto:K.Byers@concordia.ca).
+* MB1L: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Melanie Soderstrom](mailto:M_Soderstrom@umanitoba.ca).
+* MB1N: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Natalia Kartushina](mailto:natalia.kartushina@psykologi.uio.no), [Virginie Durier](mailto:virginie.durier@univ-rennes1.fr).
+* MB1T: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Melanie Schreiner](mailto:melanie.schreiner@psych.uni-goettingen.de).
 
 ##### Secondary Analysis
-* Comparison to meta-analytic data: [Christina Bergmann](Christina.Bergmann@mpi.nl), [Riccardo Fusaroli](fusaroli@cas.au.dk).
-* Analysis of supplemental demographic variables: [Melissa Kline](mekline@mit.edu).
---->
+* Comparison to meta-analytic data: [Christina Bergmann](mailto:Christina.Bergmann@mpi.nl), [Riccardo Fusaroli](mailto:fusaroli@cas.au.dk).
+* Analysis of supplemental demographic variables: [Melissa Kline](mailto:mekline@mit.edu).
