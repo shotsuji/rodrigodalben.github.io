@@ -142,4 +142,4 @@ Check out the **ManyBabies** [reports and conference presentations]({{site.baseu
 ***
 
 ## Get involved
-We encourage everyone who is interested in developmental research to get involved! Please note that access to infants/infant lab is **not** a prerequisite. There are several ways to [learn more and contribute]({{site.baseurl}}/get_involved/).
+We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Please note that access to infants/infant lab is **not** a prerequisite. 

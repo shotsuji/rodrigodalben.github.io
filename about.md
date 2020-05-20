@@ -75,7 +75,7 @@ The current Governing Board members are:
 
 [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu).
 
-**Contributors** are scattered all around the world:
+**Collaborators** are scattered all around the world:
 <!-- map from flourish -->
 <div class="flourish-embed flourish-map" data-src="visualisation/2362473" data-url="https://flo.uri.sh/visualisation/2362473/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -91,4 +91,4 @@ The [Society for the Improvement of Psychological Science (SIPS)](https://improv
 ***
 
 ### Get involved
-We encourage everyone who is interested in developmental research to get involved! Please note that access to infants/infant lab is **not** a prerequisite. There are several ways to [learn more and contribute]({{site.baseurl}}/get_involved/).
+We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Please note that access to infants/infant lab is **not** a prerequisite.
