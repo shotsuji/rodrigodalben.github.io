@@ -29,11 +29,13 @@ We confirmed the existence of an IDS preference in infant listeners. We also fou
 
 <!-- add in-line image; alligned with the next paragraph -->
 <img style="float: right;" src="/assets/img/mb1_plot2_lq_replace.jpg">
+<br>
 
 We found a preference for North America English (NAE) IDS even among participants whose native language or dialect was not NAE. Lastly, we found a stronger effect with the HPP than with the central-fixation or eye-tracking approaches. This engagement might be linked to the greater effort required by HPP.
 
 <!-- add in-line image; alligned with the next paragraph -->
 <img style="float: right;" src="/assets/img/mb1_plot1_lq_replace.jpg">
+<br>
 
 ### Leads
 [Michael Frank](https://web.stanford.edu/~mcfrank/) and [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/).
