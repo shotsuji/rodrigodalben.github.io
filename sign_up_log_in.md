@@ -35,7 +35,7 @@ Notes:
 We are working with the [Psychological Accelerator](https://psysciacc.org/) team to deliver a new sign-up page! Meanwhile, please subscribe to the  list-serv for [projects]({{site.baseurl}}/projects) for which you are interested in collaborating or e-mail the project leaders.
 
 ##### General
-* MB: [list-serv](https://mailman.stanford.edu/mailman/listinfo/manybabies), [governing board e-mail](mailto:manybabies-gb@mailman.stanford.edu).
+* MB: [list-serv](https://mailman.stanford.edu/mailman/listinfo/manybabies), [Governing Board](mailto:manybabies-gb@mailman.stanford.edu).
 
 ##### Main projects
 * MB1: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Michael Frank](mailto:mcfrank@stanford.edu), [Melanie Soderstrom](mailto:M_Soderstrom@umanitoba.ca).
@@ -55,3 +55,7 @@ We are working with the [Psychological Accelerator](https://psysciacc.org/) team
 ##### Secondary Analysis
 * Comparison to meta-analytic data: [Christina Bergmann](mailto:Christina.Bergmann@mpi.nl), [Riccardo Fusaroli](mailto:fusaroli@cas.au.dk).
 * Analysis of supplemental demographic variables: [Melissa Kline](mailto:mekline@mit.edu).
+
+##### New Projects
+
+If you are interested in leading a new **ManyBabies** project (either a main project or a spin-off that would involve data collection across multiple labs), please look at the [project proposal form](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit) and/or contact the ManyBabies [Governing Board](mailto:manybabies-gb@mailman.stanford.edu).
