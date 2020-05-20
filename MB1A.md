@@ -12,9 +12,10 @@ To-do:
 - add Contributors (header)
 -->
 
+<div class="flourish-embed" data-src="visualisation/2488103" style="float: right;" data-url="https://flo.uri.sh/visualisation/2488103/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 In this project we ask if infants growing up in a range of African nations show a preference for infant-directed speech. The project is being planned and staff is being trained to collect data. Please contact the leaders for more information.
 
-<div class="flourish-embed" data-src="visualisation/2488103" data-width="50%" style="float: right;" data-url="https://flo.uri.sh/visualisation/2488103/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Leads
 
