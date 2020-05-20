@@ -6,33 +6,29 @@ subtitle: Infant-directed Speech Preference
 
 <!--
 To-do:
+- replace image placeholders.
+- Add high resolution plot.
 - Short description of the study (justification, methods, results WITH images/plots)
   - model: https://manyprimates.github.io/pilot/
 - add Contributors (header)
+
+Notes:
+- add img html syntax:
+  <img style="float: right;" src="/assets/img/avatar-icon_placeholder.png">
+  for in-text images, use imgs with max of 250pix; it will be alligned with the following paragraph
 -->
 
-<!-- Description (300-word?) intro + method + result -->
-This is the first **ManyBabies** project. It replicates a finding reported by the developmental literature that is believed to be robust: infants’ preference for infant-directed speech (IDS) over adult-directed speech (ADS).
+In the first **ManyBabies** project, we replicated a robust finding from developmental literature: infants’ preference for infant-directed speech (IDS) over adult-directed speech (ADS). IDS is characterized by a higher pitch, greater pitch excursions, and shorter utterances when compared to ADS. Exposure to IDS has been shown to improve word segmentation and word learning. We asked if infants have a preference for IDS, and how this preference varies across age, native language background, and method.
 
-<!-- add in-line image (~ 250px looks ok); alligned with the next paragraph -->
+<!-- img placeholder -->
 <img style="float: right;" src="/assets/img/avatar-icon_placeholder.png">
 
-Infant-directed speech is usually higher pitched, has greater pitch excursions, and shorter utterances when compared to adult-directed speech. We asked if infants have a preference for infant-directed speech, and how this preference varies across age, method, and native language background.
+Sixty-nine labs, representing 2,845 infants from 16 countries participated. The final sample used for analysis included 2,329 infants. We focused on three primary methods for assessing infants’ interest: single-screen central fixation, eye tracking, and the head-turn preference procedure (HPP). All three methods are widely used in the field of infant language acquisition and yield measurements of preference for a given type of auditory stimulus, indexed by looking to an unrelated visual stimulus.
 
-Sixty-seven labs and 149 individual contributors collaborated on the study. By focusing on a single phenomenon across labs, we were able to assess its overall replicability and investigate the factors moderating it.
-
+We confirmed prior demonstrations of the existence of an IDS preference in infant listeners. We also found an increase in IDS preference across development and the magnitude of the positive developmental change was considerable, at 0.05 standard deviations per month. This finding suggests that the preference for IDS is at a minimum modulated by experience, maturation, or both. We found a preference for North America English (NAE) IDS even among participants whose native language or dialect was not NAE. Whereas preference was stronger for NAE-exposed infants, we did not find a strong effect of language background. Lastly, we found a stronger effect with the HPP than with the central-fixation or eye-tracking approaches. One potential interpretation of this finding is that the greater effort on the part of the infant in the HPP (i.e., turning the head, as opposed to making small eye movements) leads to stronger engagement in the task and therefore to stronger effects.
 
 <!-- add in-line image; alligned with the next paragraph -->
 <img style="float: right;" src="/assets/img/mb1_graph_low_quality_replace.jpg">
-
-
-
-<!-- backup
-This is the first **ManyBabies** project, seeking to replicate the classic infant-directed speech preference shown by infants. We asked if infants have a preference for infant-directed speech? How does this preference vary across age, method, and native language background?
--->
-
-
-ADD METHODS, RESULTS, PHOTOS
 
 ### Leads
 [Michael Frank](https://web.stanford.edu/~mcfrank/) and [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/).
