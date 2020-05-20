@@ -10,12 +10,4 @@ Everyone, from undergraduate students to senior researchers, who is interested i
 2. *Creating analyses, materials, and methods*: adaptation and/or creation of methods, materials, and analyses are usually necessary (e.g., [MB-AtHome]({{site.baseurl}}/MB-athome/)).
 3. *Collecting data*: following standard research protocols. Which usually require adaptation of the labs' routine and staff training.
 
-[Authorship]({{site.baseurl}}/authorship/) is granted to anyone who had a sustained intellectual contribution on any of these tasks.
-
-***
-
-### Learn more
-Learn more [about]({{site.baseurl}}/about/) **MB**, check our [authorship guidelines]({{site.baseurl}}/authorship/), and [stay up to date]({{site.baseurl}}/news/).
-
-### Contribute
-[Join the team today]({{site.baseurl}}/sign_up_log_in/) and/or get in touch with the [Governing Board](mailto:manybabies-gb@mailman.stanford.edu).
+[Authorship]({{site.baseurl}}/authorship/) is granted to anyone who had a sustained intellectual contribution on any of these tasks. [Join the team today]({{site.baseurl}}/sign_up_log_in/) and/or get in touch with the [Governing Board](mailto:manybabies-gb@mailman.stanford.edu).
