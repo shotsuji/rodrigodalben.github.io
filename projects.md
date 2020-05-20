@@ -18,7 +18,7 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 2. *Spin-off projects*: Build on the methods or data from the main projects. For example, extending the study to a different population of infants (e.g., bilinguals) or follow-up data collection (e.g., longitudinal correlation with CDIs). They are identified with a letter following the main project abbreviation (e.g., MB1B, for bilinguals; MB1L, for longitudinal);
 3. *Secondary analyses*: Conducted on publicly-available **MB** data. In some cases, these analysis may include additional data not collected as part of **MB**. For example if an individual lab investigates relationships between their lab’s **MB** data and other data collected by their lab.
 
-**MB** projects account for 30+ research questions, hundreds of collaborators, and thousands of infants.
+***
 
 ### Main projects
 #### Empirical

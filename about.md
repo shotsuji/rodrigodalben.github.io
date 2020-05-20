@@ -54,17 +54,17 @@ Check our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseu
 
 <!-- data from code of conduct -->
 **ManyBabies** collaborators come from 6-continent, 30+ nations. They can serve as:
-* *Governing board members*: responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns.
-* *Project Leads*: coordinates all aspects of a study (e.g., setting up work groups, guidelines) and ensures that all aspects adhere to the **MB** code of conduct;
-* *Data Contributors*: collect data following an experimental protocol;
-* *Project Contributors*: create stimuli, protocols, analysis code, and any other relevant tasks.
+* *Governing board members*: Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns.
+* *Project Leads*: Coordinates all aspects of a study (e.g., setting up work groups, guidelines) and ensures that all aspects adhere to the **MB** code of conduct;
+* *Data Contributors*: Collect data following an experimental protocol;
+* *Project Contributors*: Create stimuli, protocols, analysis code, and any other relevant tasks.
 
 Check the detailed description of [roles and responsabilities of each collaborator type](https://docs.google.com/document/d/1UYSevbWnBQwd_eaBe1oKkOBX-8sMsBfiPz2kwNp7Ttc/export?format=pdf), [authorship guidelines]({{site.baseurl}}/authorship/) and [get involved]({{site.baseurl}}/get_involved/).
 
 ***
 
 ### People
-The current Governing Board members are:
+**Governing Board**:
 * [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina) (Max Planck Institute for Psycholinguistics)
 * [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein) (Concordia University)
 * [Michael C. Frank](https://web.stanford.edu/~mcfrank/) (Stanford University)
@@ -75,7 +75,7 @@ The current Governing Board members are:
 
 [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu).
 
-**Collaborators** are scattered all around the world:
+**Collaborators**:
 <!-- map from flourish -->
 <div class="flourish-embed flourish-map" data-src="visualisation/2362473" data-url="https://flo.uri.sh/visualisation/2362473/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 

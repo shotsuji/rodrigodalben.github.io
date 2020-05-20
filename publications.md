@@ -60,8 +60,8 @@ Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, 
 
 ### 2019
 
-* Check out the [slides & notes](https://osf.io/4p9dt/) for the **MB** talks at Biennal Meeting of the Society for Research in Child Development (SRCD).
+* [Slides & notes](https://osf.io/4p9dt/) for talks at Biennal Meeting of the Society for Research in Child Development (SRCD).
 
 ### 2018
 
-* Check out the [slides & notes](https://osf.io/5kb3w/) for the **MB** talks at The International Congress of Infant Studies (ICIS).
+* [Slides & notes](https://osf.io/5kb3w/) for talks at The International Congress of Infant Studies (ICIS).

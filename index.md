@@ -27,11 +27,7 @@ Notes
 <!--How does Infant Direct Speech preference vary across age?-->
 - Do babies find infant-directed speech (babytalk) more interesting than adult-directed speech?
 
-<!--- Do infants show anticipatory looking that reflects the false belief of another agent?-->
-
-
-Learn more about **MB** origin, goals, and people [here]({{site.baseurl}}/about/).  
-Check the latest [news]({{site.baseurl}}/news/) to stay up to date.
+Learn more [about]({{site.baseurl}}/about/) **MB** origin, goals, people, and [stay up to date]({{site.baseurl}}/news/).
 
 ***
 
@@ -39,8 +35,6 @@ Check the latest [news]({{site.baseurl}}/news/) to stay up to date.
 html to create a grid and add Projects info
 images with link MUST use the class = "image" (.css from ManyPrimates)
 -->
-
-
 <section>
 	<header class="major">
 		<h2>Projects</h2>
@@ -137,9 +131,9 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
 ***
 
 ## Publications
-Check out the **ManyBabies** [reports and conference presentations]({{site.baseurl}}/publications/).
+Check out **ManyBabies** [reports and conference presentations]({{site.baseurl}}/publications/).
 
 ***
 
 ## Get involved
-We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Please note that access to infants/infant lab is **not** a prerequisite. 
+We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **not** a prerequisite.
