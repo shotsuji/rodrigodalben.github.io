@@ -16,7 +16,7 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 
 1. *Main projects*: Test a question about infant development of key theoretical or methodological interest. They are numbered sequentially (e.g., MB1, MB2).
 2. *Spin-off projects*: Build on the methods or data from the main projects. For example, extending the study to a different population of infants (e.g., bilinguals) or follow-up data collection (e.g., longitudinal correlation with CDIs). They are identified with a letter following the main project abbreviation (e.g., MB1B, for bilinguals; MB1L, for longitudinal);
-3. *Secondary analyses*: Conducted on publicly-available **MB** data. In some cases, these analysis may include additional data not collected as part of **MB**, for example if an individual lab investigates relationships between their lab’s **MB** data and other data collected by their lab.
+3. *Secondary analyses*: Conducted on publicly-available **MB** data. In some cases, these analysis may include additional data not collected as part of **MB**. For example if an individual lab investigates relationships between their lab’s **MB** data and other data collected by their lab.
 
 **MB** projects account for 30+ research questions, hundreds of collaborators, and thousands of infants.
 
@@ -46,6 +46,6 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 ***
 
 ## Get Involved & New Projects
-We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Please note that access to infants/infant lab is **not** a prerequisite.
+We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **not** a prerequisite.
 
 If you are interested in leading a new **ManyBabies** project (either a main project or a spin-off that would involve data collection across multiple labs), please look at the [project proposal form](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit) and/or contact the **MB** [Governing Board](mailto:manybabies-gb@mailman.stanford.edu).

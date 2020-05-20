@@ -91,4 +91,4 @@ The [Society for the Improvement of Psychological Science (SIPS)](https://improv
 ***
 
 ### Get involved
-We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Please note that access to infants/infant lab is **not** a prerequisite.
+We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **not** a prerequisite.
