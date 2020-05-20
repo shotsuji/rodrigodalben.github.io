@@ -6,12 +6,11 @@ subtitle: Infant-directed Speech Preference in Bilingual Infants
 
 <!--
 - Gaze following: Is it a MB project? Is it under MB1L?
-- add Contributors (header)
 
 To-do:
-- news release?
-- Short description of the study (justification, methods, results WITH images/plots)
-  - model: https://manyprimates.github.io/pilot/
+- replace image placeholders.
+- Add high resolution plot.
+- add collaborators map.
 -->
 
 In this project, we used the diversity of bilingual infant experiences to explore the impact of different types of linguistic experience on infants’ Infant Directed Speech (IDS) preference over Adult Directed Speech (ADS). <img style="float: right;" src="/assets/img/placeholder.png"> We compared lab-matched samples of 333 bilingual and 385 monolingual infants’ preference for North-American English IDS, tested in 17 labs in 7 countries. Those infants were tested in two age groups: 6–9 months and 12–15 months.

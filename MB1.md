@@ -8,9 +8,7 @@ subtitle: Infant-directed Speech Preference
 To-do:
 - replace image placeholders.
 - Add high resolution plot.
-- Short description of the study (justification, methods, results WITH images/plots)
-  - model: https://manyprimates.github.io/pilot/
-- add Contributors (header)
+- add collaborators map.
 
 Notes:
 - add img html syntax:
