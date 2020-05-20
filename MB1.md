@@ -52,11 +52,11 @@ ManyBabies Consortium (2020). [Quantifying sources of variability in infancy res
 ***
 
 # Spin-offs
-* [**MB1B: The Infant-Directed Speech Preference in Bilingual Infants**]({{site.baseurl}}/MB1B/)
-* [**MB1L: Longitudinal Vocabulary Followup**]({{site.baseurl}}/MB1L/)
-* [**MB1N: Native Languages Follow-up Study**]({{site.baseurl}}/MB1N/)
-* [**MB1T: Test-Retest Followup**]({{site.baseurl}}/MB1T/)
-* [**MB1A: Africa**]({{site.baseurl}}/MB1A/)
+* [**MB1A: Infant-Directed Speech Preference in African Infants**]({{site.baseurl}}/MB1A/)
+* [**MB1B: Infant-Directed Speech Preference in Bilingual Infants**]({{site.baseurl}}/MB1B/)
+* [**MB1L: Longitudinal Vocabulary Follow-up**]({{site.baseurl}}/MB1L/)
+* [**MB1N: Native Languages Follow-up**]({{site.baseurl}}/MB1N/)
+* [**MB1T: Test-Retest Follow-up**]({{site.baseurl}}/MB1T/)
 
 ***
 

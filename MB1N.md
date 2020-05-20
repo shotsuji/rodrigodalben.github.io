@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MB1N
-subtitle: Native Languages Follow-up Study
+subtitle: Native Languages Follow-up
 ---
 
 <!--

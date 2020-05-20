@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MB1T
-subtitle: Test-Retest Followup
+subtitle: Test-Retest Follow-up
 ---
 
 <!--

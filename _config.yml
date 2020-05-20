@@ -20,13 +20,13 @@ navbar-links:
     - Authorship: "authorship"
     - Publications: "publications"
     - Resources: "resources"
-  Projects: 
+  Projects:
     - MB1: "MB1"
     - MB2: "MB2"
     - MB3: "MB3"
     - MB4: "MB4"
     - MB5: "MB5"
-    - MB-AtHome: "MB-AtHome"
+    - MB-AtHome: "MB-athome"
   Sign up/Log in: "sign_up_log_in"
 
 # --- Logo --- #
