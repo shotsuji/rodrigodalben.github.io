@@ -6,11 +6,12 @@ subtitle: Longitudinal Vocabulary Follow-up
 
 <!--
 To-do:
+- add description and images
 - replace image placeholders.
 - add collaborators map.
 -->
 
-In this project we explore whether early preference for Infant Directed Speech (IDS) is linked to later vocabulary size. <img style="float: right;" src="/assets/img/placeholder.png"> For instance, we are interested in investigating to what extent preference for IDS predicts infants' vocabulary; if the relation between IDS preference and vocabulary size changes over development; and if there is any systematic differences in the strength of this relationship across the language communities. Infants’ preference for IDS was tested as part of the MabyBabies1 project, and follow-up CDI data is being collected from a subsample of this dataset at 18 and 24 months.
+In this ongoing project we explore whether early preference for Infant Directed Speech (IDS) is linked to later vocabulary size. <img style="float: right;" src="/assets/img/placeholder.png"> For instance, we are interested in investigating to what extent preference for IDS predicts infants' vocabulary; if the relation between IDS preference and vocabulary size changes over development; and if there is any systematic differences in the strength of this relationship across the language communities. Infants’ preference for IDS was tested as part of the MabyBabies1 project, and follow-up CDI data is being collected from a subsample of this dataset at 18 and 24 months.
 
 ### Leads
 [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
@@ -25,7 +26,9 @@ Data collection ongoing.
 * **News**: [MB1L-news]({{site.baseurl}}/tags/#MB1L).
 
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/)! Access to infants/infant lab is **not** a prerequisite. Aternatively (not recommended), you can contact the project lead by e-mailing: M_Soderstrom [at] umanitoba.ca
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project lead by e-mailing: M_Soderstrom [at] umanitoba.ca
+
+Please note that access to infants/infant lab is **not** a prerequisite.
 
 ### Publications
 Soderstrom, M., Werker, J. F., Tsui, A., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., Jessop, A., Hay, J. F., Hannon, E. E., Hamlin, J. K., Gonzalez-Gomez, N., Gonzalez-Barrero, A. M., Gampe, A., Fritzsche, T., Frank, M. C., Floccia, C., Durrant, S., Delle Luche, C., Davies, C., Cashon, C., Byers-Heinlein, K., Black, A. K., Bergmann, C., Anderson, L. (accepted pending data collection). [Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study](https://drive.google.com/drive/folders/1yb7bdTtEDOKwIA4qMcfiuKkoI1jIojW7). _Journal of Child Language_.
