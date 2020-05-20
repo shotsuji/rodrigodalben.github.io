@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MB
-subtitle: AtHome
+title: MB-AtHome
+subtitle: Online Infant Data Collection
 ---
 
 <!--
