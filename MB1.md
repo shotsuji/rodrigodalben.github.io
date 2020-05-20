@@ -24,16 +24,12 @@ Sixty-nine labs, summing 2,329 infants (range: 3-15 months-old) from 16 countrie
 
 We confirmed the existence of an IDS preference in infant listeners. We also found that it increases across development (magnitude of 0.05 SDs per month), suggesting a modulation by experience, maturation, or both. We found a preference for North America English (NAE) IDS even among participants whose native language or dialect was not NAE.
 
-<!-- add in-line image; alligned with the next paragraph -->
 <img style="float: right;" src="/assets/img/mb1_plot2_lq_replace.jpg">
-
 <br>
 
 Lastly, we found a stronger effect with the HPP than with the central-fixation or eye-tracking approaches. This engagement might be linked to the greater effort required by HPP.
 
-<!-- add in-line image; alligned with the next paragraph -->
 <img style="float: right;" src="/assets/img/mb1_plot1_lq_replace.jpg">
-
 <br>
 
 ### Leads
