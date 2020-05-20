@@ -35,28 +35,23 @@ This is the first **ManyBabies** project, seeking to replicate the classic infan
 ADD METHODS, RESULTS, PHOTOS
 
 ### Leads
-
 [Michael Frank](https://web.stanford.edu/~mcfrank/) and [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/).
 
 ### Status
-
 Completed.
 
 ### Links
-
 * **Materials, Protocols, and Documentation**: [MB1-OSF](https://osf.io/re95x/).
 * **Data and code**: [MB1-GitHub](https://github.com/manybabies/mb1-analysis-public).
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).  
 * **News**: [MB1-news]({{site.baseurl}}/tags/#MB1).
 
 ### Publications
-
 ManyBabies Consortium (2020). [Quantifying sources of variability in infancy research using the infant-directed speech preference](https://doi.org/10.1177/2515245919900809). _Advances in Methods and Practices in Psychological Science_, 3, 24-52. [PsyArXiv Preprint](https://psyarxiv.com/s98ab)
 
 ***
 
 # Spin-offs
-
 * [**MB1B: The Infant-Directed Speech Preference in Bilingual Infants**]({{site.baseurl}}/MB1B/)
 * [**MB1L: Longitudinal Vocabulary Followup**]({{site.baseurl}}/MB1L/)
 * [**MB1N: Native Languages Follow-up Study**]({{site.baseurl}}/MB1N/)
