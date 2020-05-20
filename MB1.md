@@ -18,25 +18,22 @@ Notes:
   for in-text images, use imgs with max of 250pix; it will be alligned with the following paragraph
 -->
 
-In the first **ManyBabies** project, we replicated a robust finding from developmental literature: infants’ preference for infant-directed speech (IDS) over adult-directed speech (ADS). IDS is characterized by a higher pitch, greater pitch excursions, and shorter utterances when compared to ADS.
-
-<!-- img placeholder -->
-<img style="float: right;" src="/assets/img/placeholder.png">
-
-Exposure to IDS has been shown to improve word segmentation and word learning. We asked if infants have a preference for IDS, and how this preference varies across age, native language background, and method.
+In the first **ManyBabies** project, we replicated a robust finding from developmental literature: infants’ preference for infant-directed speech (IDS) over adult-directed speech (ADS). IDS is characterized by a higher pitch, greater pitch excursions, and shorter utterances when compared to ADS. <img style="float: right;" src="/assets/img/placeholder.png"> Exposure to IDS has been shown to improve word segmentation and word learning. We asked if infants have a preference for IDS, and how this preference varies across age, native language background, and method.
 
 Sixty-nine labs, summing 2,329 infants (range: 3-15 months-old) from 16 countries participated. We focused on three primary methods for assessing infants’ interest: single-screen central fixation, eye tracking, and the head-turn preference procedure (HPP).
 
-We confirmed the existence of an IDS preference in infant listeners. We also found that it increases across development (magnitude of 0.05 SDs per month), suggesting a modulation by experience, maturation, or both.
+We confirmed the existence of an IDS preference in infant listeners. We also found that it increases across development (magnitude of 0.05 SDs per month), suggesting a modulation by experience, maturation, or both. We found a preference for North America English (NAE) IDS even among participants whose native language or dialect was not NAE.
 
 <!-- add in-line image; alligned with the next paragraph -->
 <img style="float: right;" src="/assets/img/mb1_plot2_lq_replace.jpg">
+
 <br>
 
-We found a preference for North America English (NAE) IDS even among participants whose native language or dialect was not NAE. Lastly, we found a stronger effect with the HPP than with the central-fixation or eye-tracking approaches. This engagement might be linked to the greater effort required by HPP.
+Lastly, we found a stronger effect with the HPP than with the central-fixation or eye-tracking approaches. This engagement might be linked to the greater effort required by HPP.
 
 <!-- add in-line image; alligned with the next paragraph -->
 <img style="float: right;" src="/assets/img/mb1_plot1_lq_replace.jpg">
+
 <br>
 
 ### Leads
