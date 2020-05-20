@@ -12,10 +12,9 @@ To-do:
 - add Contributors (header)
 -->
 
-<!-- Description (300-word?) intro + method + result -->
-Do infants growing up in a range of African nations show a preference for infant-directed speech?
+In this project we ask if infants growing up in a range of African nations show a preference for infant-directed speech. The project is being planned and staff is being trained to collect data. Please contact the leaders for more information.
 
-ADD METHODS, RESULTS, PHOTOS
+<div class="flourish-embed" data-src="visualisation/2488103" data-width="50%" data-url="https://flo.uri.sh/visualisation/2488103/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Leads
 
