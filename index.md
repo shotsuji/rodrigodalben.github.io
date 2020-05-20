@@ -46,7 +46,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
 		<h1>Projects</h1>
 	</header>
       <p>
-        The broader goals of <b>ManyBabies</b> come together in a set of collaborative projects. Different types of projects include <i>main projects</i> (either empirical or methodological), <i>spin-off projects</i>, and <i>secondary analyses</i>. Learn more and see a list of ongoing projects <a href="{{site.baseurl}}{% link projects.md %}">here</a>.  Main projects, together with their affiliated spin-off projects and secondary analyses, are listed below:
+        The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site.baseurl}}{% link projects.md %}"> collaborative projects</a>. They are organized in <i>main projects</i> (either empirical or methodological), <i>spin-off projects</i>, and <i>secondary analyses</i>. Check our main projects, together with their affiliated spin-off projects and secondary analyses:
       </p>
 
 	<header class="major">
@@ -62,7 +62,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
             <img src="assets/img/feet-619399_cb1.jpg" />
           </a>
           <h4>MB1: Infant-Directed Speech Preference</h4>
-            Do infants have a preference for infant-directed speech? How does this preference vary across age, method, and native language background?
+            Do infants prefer infant-directed speech? Does age, method, and native language background matters?
               <a href="{{site.baseurl}}{% link MB1.md %}" class="button">Learn more</a>
         </div>
 
@@ -105,7 +105,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
           <a href="{{site.baseurl}}{% link MB5.md %}" class="image">
             <img src="assets/img/feet-619399_cb6.jpg" />
           </a>
-          <h4>MB5: The Hunter & Ames model</h4>
+          <h4>MB5: The Hunter & Ames model of Infant Looking Preferences</h4>
             What factors shape infants’ preferences for familiar and novel stimuli?
               <a href="{{site.baseurl}}{% link MB5.md %}" class="button">Learn more</a>
         </div>
@@ -124,8 +124,8 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         <a href="{{site.baseurl}}{% link MB-athome.md %}" class="image">
           <img src="assets/img/feet-619399_cb2.jpg" />
         </a>
-        <h4>MB-AtHome</h4>
-          Work towards solutions for testing infants in their home, with a focus on measuring looks.
+        <h4>MB-AtHome: Online Infant Data Collection</h4>
+          Solutions for testing infants in their home, with a focus on measuring looks.
               <a href="{{site.baseurl}}{% link MB-athome.md %}" class="button">Learn more</a>
         </div>
     </div>
