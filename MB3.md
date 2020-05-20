@@ -5,40 +5,31 @@ subtitle: Rule Learning
 ---
 
 <!--
-- add Contributors (header)
-
 To-do:
-- publication/news release?
-- Short description of the study (justification, methods, results WITH images/plots)
-  - model: https://manyprimates.github.io/pilot/
+- replace image placeholders.
+- add collaborators map.
+
+- publication?
 -->
 
-<!-- Description (300-word?) intro + method + result -->
-This project will investigate infants' theory of mind.
-Do infants learn and generalize identity-based rules from speech stimuli?
-
-ADD METHODS, RESULTS, PHOTOS
+In this ongoing project we aim to investigate whether infants can learn abstract algebraic rules over syllable sequences and generalize those rules to novel syllable sequences. <img style="float: right;" src="/assets/img/placeholder.png"> The ability to learn and apply rules lies at the heart of cognition and despite the large research effort on the topic, questions remain about the robustness of the core finding, as many studies failed to find significant learning effects. We believe that a multi-lab approach will have enough power to provide further information about the subject.
 
 ### Leads
-
 [Ingmar Visser](https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb), [Clartje Levelt](https://www.universiteitleiden.nl/en/staffmembers/claartje-levelt#tab-1)
 
 ### Status
-
 Stimulus creation ongoing.
 
 ### Links
-
 * **Materials, Protocols, and Documentation**: [MB3-OSF](https://osf.io/kqu9v/).
 * **Data and code**: [MB3-GitHub](https://github.com/manybabies/mb3-rules).
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies3).
 * **News**: [MB3-news]({{site.baseurl}}/tags/#MB3).
 
-### Get involved & Contribute
+### Contribute
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: I.Visser [at] uva.nl, c.c.levelt [at] hum.leidenuniv.nl
 
-We encourage everyone who is interested in developmental research to get involved! Please note that access to infants/infant lab is **not** a prerequisite.  
-
-To contribute, please [sign up]({{site.baseurl}}/sign_up_log_in/) to **MB** and follow the instructions. Aternatively (not recommended), you can contact the project leads by e-mailing: I.Visser [at] uva.nl, c.c.levelt [at] hum.leidenuniv.nl.
+Please note that access to infants/infant lab is **not** a prerequisite.
 
 <!--
 ### Publications

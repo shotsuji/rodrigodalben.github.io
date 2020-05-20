@@ -6,18 +6,13 @@ subtitle: Secondary Analysis
 
 <!--
 To-do:
-- add Contributors (header)
-- news release?
-- Short description of the study (justification, methods, results WITH images/plots)
-  - model: https://manyprimates.github.io/pilot/
+- add ALL the information (+ pictures...)
 -->
 
 # Comparison to meta-analytic data
-<!-- Description (300-word?) intro + method + result -->
-ADD METHODS, RESULTS, PHOTOS
+I did not find any information about this project.
 
 ### Leads
-
 [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), [Riccardo Fusaroli](https://pure.au.dk/portal/en/persons/riccardo-fusaroli(3f72f2a1-e93a-4689-872c-c11c9703c1cc).html).
 
 ### Status
@@ -33,11 +28,10 @@ ADD METHODS, RESULTS, PHOTOS
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
 -->
 
-### Get involved & Contribute
+### Contribute
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: Christina.Bergmann [at] mpi.nl, fusaroli [at] cas.au.dk
 
-We encourage everyone who is interested in developmental research to get involved!
-
-To contribute, please [sign up]({{site.baseurl}}/sign_up_log_in/) to **MB** and follow the instructions. Aternatively (not recommended), you can contact the project leads by e-mailing: Christina.Bergmann [at] mpi.nl, fusaroli [at] cas.au.dk.
+Please note that access to infants/infant lab is **not** a prerequisite.
 
 <!--
 ### Publications
@@ -50,19 +44,15 @@ To contribute, please [sign up]({{site.baseurl}}/sign_up_log_in/) to **MB** and 
 ***
 
 # Analysis of supplemental demographic variables
-<!-- Description (300-word?) intro + method + result -->
-ADD METHODS, RESULTS, PHOTOS
+CHECK preregistration
 
 ### Leads
-
 [Melissa Kline](https://osf.io/d5mks/)
 
 ### Status
-
 ?
 
 ### Links
-
 ?
 <!--
 * **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).
@@ -70,11 +60,11 @@ ADD METHODS, RESULTS, PHOTOS
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
 -->
 
-### Get involved & Contribute
 
-We encourage everyone who is interested in developmental research to get involved!
+### Contribute
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: mekline [at] mit.edu
 
-To contribute, please [sign up]({{site.baseurl}}/sign_up_log_in/) to **MB** and follow the instructions. Aternatively (not recommended), you can contact the project leads by e-mailing: mekline [at] mit.edu.
+Please note that access to infants/infant lab is **not** a prerequisite.
 
 <!--
 ### Publications
