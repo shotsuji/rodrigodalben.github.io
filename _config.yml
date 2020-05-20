@@ -20,7 +20,7 @@ navbar-links:
     - Authorship: "authorship"
     - Publications: "publications"
     - Resources: "resources"
-  Projects: "projects"
+  Projects: 
     - MB1: "MB1"
     - MB2: "MB2"
     - MB3: "MB3"
