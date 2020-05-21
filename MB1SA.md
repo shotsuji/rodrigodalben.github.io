@@ -21,11 +21,6 @@ UNDER CONSTRUCTION
 
 ### Links
 ?
-<!--
-* **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).
-* **Data and code**: [MB1B-GitHub](https://github.com/manybabies/mb1b-analysis-public).
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
--->
 
 ### Contribute
 We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: Christina.Bergmann [at] mpi.nl, fusaroli [at] cas.au.dk

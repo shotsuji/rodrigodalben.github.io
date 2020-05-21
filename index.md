@@ -22,7 +22,7 @@ Notes
 **ManyBabies (MB)** is a collaborative project for replication and best practices in developmental psychology research. Our goal is to bring researchers together to address difficult outstanding theoretical and methodological questions about the nature of early development and how it is studied. For example:
 
 <!--- Do infants prefer agents who are seen to help over those who are seen to hinder?-->
-- Do infants prefer helpers over hinders?
+- Do infants prefer helpers over hinderers?
 <!--- What factors shape infants’ preferences for familiar and novel stimuli? -->
 - When do infants like familiarity and when do they like novelty?
 <!--How does Infant Direct Speech preference vary across age?-->
