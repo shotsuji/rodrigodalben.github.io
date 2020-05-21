@@ -43,7 +43,7 @@ Please note that access to infants/infant lab is **not** a prerequisite.
 ***
 
 # Analysis of supplemental demographic variables
-The ManyBabies 1 project, a large-scale collaboration of developmental psychology labs to replicate a classic finding – infants' preference for infant-directed over adult-directed speech – provides a unique opportunity not only to take stock of the field and discover how our methods and approaches differ, but to being to understand the factors that make these effects so difficult to measure. In this exploratory project, we plan to analyze additional variables collected alongside the main MB1 project, consisting of a wide range of 'lab factors' that researchers believe may impact either whether a baby fusses out of a study (e.g., Research Assistant having beard), or whether they truly attend to stimuli (and thus produce an expected effect in the study).
+The ManyBabies 1 project, a large-scale collaboration of developmental psychology labs to replicate a classic finding – infants' preference for infant-directed over adult-directed speech – <img style="float: right;" src="/assets/img/placeholder.png"> provides a unique opportunity not only to take stock of the field and discover how our methods and approaches differ, but to being to understand the factors that make these effects so difficult to measure. In this exploratory project, we plan to analyze additional variables collected alongside the main MB1 project, consisting of a wide range of 'lab factors' that researchers believe may impact either whether a baby fusses out of a study (e.g., Research Assistant having beard), or whether they truly attend to stimuli (and thus produce an expected effect in the study).
 
 ### Leads
 [Melissa Kline](https://osf.io/d5mks/)
