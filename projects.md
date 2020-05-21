@@ -4,6 +4,9 @@ title: Projects
 cover-img: /assets/img/blocks-503109.jpg
 ---
 <!---
+To-do:
+- add link to internal title (Secondary Analysis 2).
+
 Suggestions:
 - Home Spin-offs as bullets right below their main project as spin-off numbers increase.
 

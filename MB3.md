@@ -12,7 +12,7 @@ To-do:
 - publication?
 -->
 
-In this ongoing project we aim to investigate whether infants can learn abstract algebraic rules over syllable sequences and generalize those rules to novel syllable sequences. <img style="float: right;" src="/assets/img/placeholder.png"> The ability to learn and apply rules lies at the heart of cognition and despite the large research effort on the topic, questions remain about the robustness of the core finding, as many studies failed to find significant learning effects. We believe that a multi-lab approach will have enough power to provide further information about the subject.
+In this ongoing project we aim to investigate whether infants can learn abstract algebraic rules over syllable sequences and generalize those rules to novel syllable sequences. <img style="float: right;" src="/assets/img/placeholder.png"> The ability to learn and apply rules lies at the heart of cognition and despite the large research effort on the topic, questions remain about the robustness of the core finding, as many studies failed to find significant learning effects. We believe that a multi-lab approach will have enough power to provide further information on the subject.
 
 ### Leads
 [Ingmar Visser](https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb), [Clartje Levelt](https://www.universiteitleiden.nl/en/staffmembers/claartje-levelt#tab-1)

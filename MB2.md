@@ -12,13 +12,13 @@ To-do:
 - add collaborators map.
 -->
 
-<!-- Description (300-word?) intro + method + result + images -->
-This project will investigate infants' theory of mind.
-Do infants show anticipatory looking that reflects the false belief of another agent?
+UNDER CONSTRUCTION
 
+This project investigate infants' theory of mind. We ask if infants show anticipatory looking that reflects the false belief of another agent.
 
-From "registratio" topic list:
-"Large consortium of ToM researchers and labs, including original authors of all original studies, as well researchers from all theoretical orientations (spanning, for example, nativist and core knowledge, dual process, conceptual change and skeptics…)"
+We employ a design of removal and location-change.
+
+The research group is composed of a large consortium of ToM researchers and labs, including original authors of all original studies, as well researchers from all theoretical orientations (spanning, for example, nativist and core knowledge, dual process, conceptual change and skeptics…)"
 
 Where can I find more information?
 

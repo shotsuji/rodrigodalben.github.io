@@ -5,19 +5,17 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
 ---
 
 <!--
-- add Contributors (header)
-
 To-do:
-- check status
-- news release?
+- replace image placeholders.
+- add collaborators map.
+- publication/news release?
 - Short description of the study (justification, methods, results WITH images/plots)
-  - model: https://manyprimates.github.io/pilot/
 -->
 
-<!-- Description (300-word?) intro + method + result -->
+UNDER CONSTRUCTION
+
 What factors shape infants’ preferences for familiar and novel stimuli?
 
-ADD METHODS, RESULTS, PHOTOS
 
 ### Leads
 
