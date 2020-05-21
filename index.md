@@ -7,11 +7,12 @@ cover-img: /assets/img/curiosity-1910023_cut2.jpg
 
 <!---
 To-do:
-- edited questions to a more "general" language, but looks imprecise.
 - "sign up" page: create a Admnistrative Panel with Erin from PSA.
 	- create the sign up/registration form
 - open external links in new tabs? possible work around with kramdown - apply to all pages
-- map: see "about"
+- improve map (R): see "about"
+- add a timestamp on each page, something like:
+		https://tomkadwill.com/adding-last-modified-date-to-jekyll
 
 Notes
 - When using colors, use the color-blind palette from Wong (https://www.nature.com/articles/nmeth.1618.pdf?origin=ppub)

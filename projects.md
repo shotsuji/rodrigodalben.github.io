@@ -42,7 +42,7 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 * [**MB1N: Native Languages Follow-up**]({{site.baseurl}}/MB1N/)    
 * [**MB1T: Test-Retest Follow-up**]({{site.baseurl}}/MB1T/)    
 
-### Secondary Analysis
+### Secondary Analyses
 * [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
 * [**Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)
 

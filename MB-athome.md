@@ -21,11 +21,11 @@ Recruiting infants in their homes can alleviate problems of high recruitment cos
 Planning and surveys of the community’s needs and existing solutions, choosing a first collaborative study.
 
 ### Links
-* **Materials, Protocols, and Documentation**: [MB6-Google Drive](https://drive.google.com/drive/folders/1IW0daOJMG37FdoGkX1l12zhjPYSmPcD5).
+* **Materials, Protocols, and Documentation**: [Google Drive](https://drive.google.com/drive/folders/1IW0daOJMG37FdoGkX1l12zhjPYSmPcD5).
 <!--* **Data and code**: [MB2-GitHub](https://github.com/manybabies/mb2-analysis).-->
 * **Listserv**: [join here](https://groups.google.com/forum/#!forum/infantlooksathome).
 * **Slack**: [join here](https://infantlooksathome.slack.com/#/).
-* **News**: [MB-AtHome-news]({{site.baseurl}}/tags/#MB-AtHome).
+* **News**: [MB-AtHome news]({{site.baseurl}}/tags/#MB-AtHome).
 
 ### Contribute
 We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: Lorijn.Zaadnoordijk [at] tcd.ie, tsujish [at] gmail.com, Christina.Bergmann [at] mpi.nl, rhodricusack [at] cusacklab.org.
