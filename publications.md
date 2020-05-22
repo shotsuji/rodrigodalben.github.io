@@ -30,10 +30,7 @@ Byers-Heinlein, K., Tsui, R.K., Renswoude, D. R. van, Black, A., Barr, R., Brown
 Soderstrom, M., Werker, J. F., Tsui, A., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., Jessop, A., Hay, J. F., Hannon, E. E., Hamlin, J. K., Gonzalez-Gomez, N., Gonzalez-Barrero, A. M., Gampe, A., Fritzsche, T., Frank, M. C., Floccia, C., Durrant, S., Delle Luche, C., Davies, C., Cashon, C., Byers-Heinlein, K., Black, A. K., Bergmann, C., Anderson, L. (accepted pending data collection). [Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study](https://drive.google.com/drive/folders/1yb7bdTtEDOKwIA4qMcfiuKkoI1jIojW7). _Journal of Child Language_.
 
 ### Under review
-MB4
-
-
-
+ManyBabies Consortium (under review). [Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study](https://docs.google.com/document/d/1gQIZ_IRXCy25QGfvdx3QIpoP12A5aIld986Kh30mbr0/).
 
 ### Registrations
 <!---

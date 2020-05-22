@@ -10,7 +10,7 @@ To-do:
 - add collaborators map.
 -->
 
-In MB1 all infants, regardless of their linguistica background, heard stimuli recorded in North American English. <img style="float: right;" src="/assets/img/placeholder.png"> In this project we ask how does Infant Directed Speech (IDS) preference to North American English in MB1 compare to IDS preference measured in non-English speaking babies’ native language. Infants speakers of N, N, N will be tested in their respective native language using the same procedure from MB1.
+All infants from MB1, regardless of their linguistic background, heard stimuli recorded in North American English. <img style="float: right;" src="/assets/img/placeholder.png"> In this project we ask how does Infant Directed Speech (IDS) preference to North American English in MB1 compare to IDS preference measured in non-English speaking babies’ native language. Infants whose primary exposure language is either French, Dutch, Norwegian, Czech, or Turkish will be tested in their respective native language using the same procedure from MB1.
 
 ### Leads
 [Natalia Kartushina](https://www.sv.uio.no/psi/english/people/aca/natalkar/) and [Virginie Durier](https://ethos.univ-rennes1.fr/interlocuteurs/virginie-durier)
@@ -30,7 +30,7 @@ We encourage everyone who is interested in the project to [contribute]({{site.ba
 Please note that access to infants/infant lab is **not** a prerequisite.  
 
 ### Publications
-?
+Registration under embargo?
 
 <!-- Registration under embargo on OSF - Should be included?
 

@@ -12,16 +12,13 @@ To-do:
 - Short description of the study (justification, methods, results WITH images/plots)
 -->
 
-UNDER CONSTRUCTION
-
-Do infants prefer agents who are seen to help over those who are seen to hinder?
-
+In this project we investigate a fundamental aspect of human nature: evaluating others’ actions as praiseworthy or blameworthy. <img style="float: right;" src="/assets/img/placeholder.png"> We do so in a closely coordinated, multi-laboratory, standardized study aimed at replicating the helping/hindering finding reported by ([Hamlin, Wynn, & Bloom, 2007](https://www.nature.com/articles/nature06288)). Using a video-taped version of the original [puppet show](https://www.youtube.com/watch?v=anCaGBsBOxM), labs from around the world will collect data from infants between the ages of 5.5 and 10.5 months.
 
 ### Leads
 [Kelsey Lucca](https://psychology.asu.edu/content/kelsey-lucca), [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/).
 
 ### Status
-Pilot data collection complete.
+Pilot data collection complete; registred report submitted.
 
 ### Links
 * **Materials, Protocols, and Documentation**: [MB4-OSF](https://osf.io/xe2pj/).
@@ -35,11 +32,5 @@ We encourage everyone who is interested in the project to [contribute]({{site.ba
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 
-<!--
 ### Publications
-
-Check out the [preregistration](https://osf.io/jmuvd/).
-
-
-**News release**: See also the news releases by
--->
+ManyBabies Consortium (under review). [Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study](https://docs.google.com/document/d/1gQIZ_IRXCy25QGfvdx3QIpoP12A5aIld986Kh30mbr0/).
