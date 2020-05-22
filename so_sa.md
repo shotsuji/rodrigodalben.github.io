@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Spin-offs & Secondary Analyses
+title: MB
+subtitle: Spin-offs & Secondary Analyses
 ---
 
 # Spin-offs

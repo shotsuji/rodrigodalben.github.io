@@ -11,7 +11,7 @@ To-do:
 - add collaborators map.
 -->
 
-In this ongoing project we explore whether early preference for Infant Directed Speech (IDS) is linked to later vocabulary size. <img style="float: right;" src="/assets/img/placeholder.png"> For instance, we are interested in investigating to what extent preference for IDS predicts infants' vocabulary; if the relation between IDS preference and vocabulary size changes over development; and if there is any systematic differences in the strength of this relationship across the language communities. Infants’ preference for IDS was tested as part of the MabyBabies1 project, and follow-up CDI data is being collected from a subsample of this dataset at 18 and 24 months.
+In this ongoing project we explore whether early preference for Infant Directed Speech (IDS) is linked to later vocabulary size. <img style="float: right;" src="/assets/img/placeholder.png"> For instance, we are interested in investigating to what extent preference for IDS predicts infants' vocabulary; if the relation between IDS preference and vocabulary size changes over development; and if there is any systematic differences in the strength of this relationship across the language communities. Infants’ preference for IDS was tested as part of the MabyBabies1 project, and follow-up CDI data is being collected from a subsample of this dataset at 18 and 24 months of age.
 
 ### Leads
 [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)

@@ -13,7 +13,7 @@ To-do:
 - add collaborators map.
 -->
 
-In this project, we used the diversity of bilingual infant experiences to explore the impact of different types of linguistic experience on infants’ Infant Directed Speech (IDS) preference over Adult Directed Speech (ADS). <img style="float: right;" src="/assets/img/placeholder.png"> We compared lab-matched samples of 333 bilingual and 385 monolingual infants’ preference for North-American English IDS, tested in 17 labs in 7 countries. Those infants were tested in two age groups: 6–9 months and 12–15 months.
+In this project we used the diversity of bilingual infant experiences to explore the impact of different types of linguistic experience on infants’ Infant Directed Speech (IDS) preference over Adult Directed Speech (ADS). <img style="float: right;" src="/assets/img/placeholder.png"> We compared lab-matched samples of 333 bilingual and 385 monolingual infants’ preference for North-American English IDS, tested in 17 labs in 7 countries. Those infants were tested in two age groups: 6–9 months and 12–15 months.
 
 We found that bilingual and monolingual infants preferred IDS to ADS, and did not differ in terms of the overall magnitude of this preference. However, amongst bilingual infants who were acquiring North-American English (NAE) as a native language, greater exposure to NAE was associated with a stronger IDS preference, extending the previous finding from MB1 that monolinguals learning NAE as a native language showed a stronger preference than infants unexposed to NAE.
 
@@ -26,7 +26,7 @@ Together, our findings indicate that IDS preference likely makes a similar contr
 [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein)
 
 ### Status
-Stage 2 Registered Report under Stage 2 review.
+Stage 2 Registered Report under review.
 
 ### Links
 * **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).

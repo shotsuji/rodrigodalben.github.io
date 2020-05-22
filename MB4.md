@@ -18,7 +18,7 @@ In this ongoing project we investigate a fundamental aspect of human nature: eva
 [Kelsey Lucca](https://psychology.asu.edu/content/kelsey-lucca), [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/).
 
 ### Status
-Pilot data collection complete; registred report submitted.
+Pilot data collection complete; Stage 1 Registered Report under review.
 
 ### Links
 * **Materials, Protocols, and Documentation**: [MB4-OSF](https://osf.io/xe2pj/).
