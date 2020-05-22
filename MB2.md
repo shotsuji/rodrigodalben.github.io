@@ -8,26 +8,16 @@ subtitle: Theory of Mind in Infancy
 To-do:
 - grant from germany?
 - check status; where the registred report is archived?
-- Short description of the study (justification, methods, results WITH images/plots)
 - add collaborators map.
 -->
 
-UNDER CONSTRUCTION
-
-This project investigate infants' theory of mind. We ask if infants show anticipatory looking that reflects the false belief of another agent.
-
-We employ a design of removal and location-change.
-
-The research group is composed of a large consortium of ToM researchers and labs, including original authors of all original studies, as well researchers from all theoretical orientations (spanning, for example, nativist and core knowledge, dual process, conceptual change and skeptics…)"
-
-Where can I find more information?
+In this ongoing project we aim to investigate a fundamental feature of human social cognition: Theory of Mind (ToM; the ability to ascribe mental states to agents). <img style="float: right;" src="/assets/img/placeholder.png"> One of the central tests for ToM is the false belief task in which children need to predict how an agent will act on the basis of her (mis)representation of the world. Using a false belief task (3D-animated videos), we ask if infants (between 18-36-month-olds) and adults show anticipatory looking that reflects the false belief of another agent. Our contributors include the authors of the original studies and of previous replication attempts, as well researchers from diverse theoretical orientations (e.g., nativist and core knowledge, dual process, conceptual change and skeptics…).
 
 ### Leads
 [Hannes Rakoczy](https://www.psych.uni-goettingen.de/en/development/team/rakoczy-hannes)
 
-### Status ?
+### Status
 Stage 1 Registered Report under revision.
-Where it is archived?
 
 ### Links
 * **Materials, Protocols, and Documentation**: [MB2-OSF](https://osf.io/jmuvd/).
@@ -40,11 +30,5 @@ We encourage everyone who is interested in the project to [contribute]({{site.ba
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 
-<!--
 ### Publications
-
-Check out the [preregistration](https://osf.io/jmuvd/).
-
-
-**News release**: See also the news releases by
--->
+?
