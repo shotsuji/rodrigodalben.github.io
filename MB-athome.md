@@ -17,6 +17,8 @@ Recruiting infants in their homes can alleviate problems of high recruitment cos
 ### Leads
 [Lorijn Zaadnoordijk](https://sites.google.com/view/lorijnzaadnoordijk/homepage), [Sho Tsuji](https://sites.google.com/site/tsujish), [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), [Rhodri Cusack](https://www.infantcentre.ie/who-we-are-2/our-team/prof-rhodri-cusack)
 
+<div class="flourish-embed flourish-map" data-src="visualisation/2520119" data-url="https://flo.uri.sh/visualisation/2520119/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### Status
 Planning and surveys of the community’s needs and existing solutions, choosing a first collaborative study.
 
