@@ -34,6 +34,9 @@ Lastly, we found a stronger effect with the HPP than with the central-fixation o
 ### Leads
 [Michael Frank](https://web.stanford.edu/~mcfrank/) and [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/).
 
+### Collaborators
+<div class="flourish-embed flourish-map" data-src="visualisation/2520033" data-url="https://flo.uri.sh/visualisation/2520033/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### Status
 Completed.
 

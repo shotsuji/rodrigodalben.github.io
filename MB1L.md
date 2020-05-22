@@ -16,6 +16,9 @@ In this ongoing project we explore whether early preference for Infant Directed 
 ### Leads
 [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
 
+### Collaborators
+<div class="flourish-embed flourish-map" data-src="visualisation/2520191" data-url="https://flo.uri.sh/visualisation/2520191/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### Status
 Data collection ongoing.
 

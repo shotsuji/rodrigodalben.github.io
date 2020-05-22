@@ -15,6 +15,9 @@ All infants from MB1, regardless of their linguistic background, heard stimuli r
 ### Leads
 [Natalia Kartushina](https://www.sv.uio.no/psi/english/people/aca/natalkar/) and [Virginie Durier](https://ethos.univ-rennes1.fr/interlocuteurs/virginie-durier)
 
+### Collaborators
+<div class="flourish-embed flourish-map" data-src="visualisation/2520226" data-url="https://flo.uri.sh/visualisation/2520226/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### Status
 Stimulus creation and data collection.
 
