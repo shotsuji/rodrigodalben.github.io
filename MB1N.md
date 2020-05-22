@@ -10,11 +10,7 @@ To-do:
 - add collaborators map.
 -->
 
-UNDER CONSTRUCTION
-
-How does IDS preference to NA English in MB1 compare to IDS preference measured in non-English speaking babies’ native language?   
-
-I am not sure what is the status or latest decisions in this project. The OSF registration (under embargo) describe a project that will test the IDS preference of Canadians when the stimuli is recorded in a foreing language.
+In MB1 all infants, regardless of their linguistica background, heard stimuli recorded in North American English. <img style="float: right;" src="/assets/img/placeholder.png"> In this project we ask how does Infant Directed Speech (IDS) preference to North American English in MB1 compare to IDS preference measured in non-English speaking babies’ native language. Infants speakers of N, N, N will be tested in their respective native language using the same procedure from MB1.
 
 ### Leads
 [Natalia Kartushina](https://www.sv.uio.no/psi/english/people/aca/natalkar/) and [Virginie Durier](https://ethos.univ-rennes1.fr/interlocuteurs/virginie-durier)

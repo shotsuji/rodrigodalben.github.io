@@ -6,12 +6,11 @@ subtitle: Secondary Analyses
 
 <!--
 To-do:
-- add ALL the information (+ pictures...)
+- add information (+ pictures...), links etc.
 -->
 
 # Comparison to meta-analytic data
-
-UNDER CONSTRUCTION
+In this secondary analysis we will compare the results from MB1 to a meta-analysis of the literature. By doing so, we may be able to better understand moderating factors and variables that impact infant preference for Infant Directed Speech.
 
 ### Leads
 [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), [Riccardo Fusaroli](https://pure.au.dk/portal/en/persons/riccardo-fusaroli(3f72f2a1-e93a-4689-872c-c11c9703c1cc).html).
@@ -27,13 +26,8 @@ We encourage everyone who is interested in the project to [contribute]({{site.ba
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 
-<!--
 ### Publications
-
 ?
-
-**News release**: See also the news releases by
--->
 
 ***
 
@@ -48,17 +42,11 @@ The ManyBabies 1 project, a large-scale collaboration of developmental psycholog
 
 ### Links
 * **Materials, Protocols, and Documentation**: [OSF](https://osf.io/ryzmb/).
-<!--* **Data and code**: [MB1B-GitHub](https://github.com/manybabies/mb1b-analysis-public).-->
 
 ### Contribute
 We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: mekline [at] mit.edu
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 
-<!--
 ### Publications
-
-?
-
-**News release**: See also the news releases by
--->
+Kline, M. (2018, June 8). [The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes](https://osf.io/puxbg/).
