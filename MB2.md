@@ -7,11 +7,12 @@ subtitle: Theory of Mind in Infancy
 <!--
 To-do:
 - grant from germany?
-- check status; where the registred report is archived?
+- check status;
+- publications: where the registred report is archived?
 - add collaborators map.
 -->
 
-In this ongoing project we aim to investigate a fundamental feature of human social cognition: Theory of Mind (ToM; the ability to ascribe mental states to agents). <img style="float: right;" src="/assets/img/placeholder.png"> One of the central tests for ToM is the false belief task in which children need to predict how an agent will act on the basis of her (mis)representation of the world. Using a false belief task (3D-animated videos), we ask if infants (between 18-36-month-olds) and adults show anticipatory looking that reflects the false belief of another agent. Our contributors include the authors of the original studies and of previous replication attempts, as well researchers from diverse theoretical orientations (e.g., nativist and core knowledge, dual process, conceptual change and skeptics…).
+In this ongoing project we aim to investigate a fundamental feature of human social cognition: Theory of Mind (ToM; the ability to ascribe mental states to agents). <img style="float: right;" src="/assets/img/placeholder.png"> One of the central tests for ToM is the false belief task in which children need to predict how an agent will act on the basis of her (mis)representation of the world. Using a false belief task (3D-animated videos), we ask if infants (between 18-36-month-olds) and adults show anticipatory looking that reflects the false belief of another agent. Our contributors include the authors of the original studies and of previous replication attempts, as well researchers from diverse theoretical orientations (e.g., nativist and core knowledge, dual process, conceptual change and skeptics).
 
 ### Leads
 [Hannes Rakoczy](https://www.psych.uni-goettingen.de/en/development/team/rakoczy-hannes)
