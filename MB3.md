@@ -17,6 +17,9 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 ### Leads
 [Ingmar Visser](https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb), [Clartje Levelt](https://www.universiteitleiden.nl/en/staffmembers/claartje-levelt#tab-1)
 
+### Collaborators
+<div class="flourish-embed flourish-map" data-src="visualisation/2520272" data-url="https://flo.uri.sh/visualisation/2520272/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### Status
 Stimulus creation ongoing.
 

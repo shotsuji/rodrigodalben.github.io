@@ -76,7 +76,7 @@ Check the detailed description of [roles and responsabilities of each collaborat
 [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu).
 
 **Collaborators**:   
-Map "under construction". Tips: click on the study legend to hide its' contributors; search for institutions; zoom in & out.
+"Under construction". Tips: click on the study legend to hide its' contributors; search for institutions; zoom in & out.
 
 <!-- map from flourish -->
 <div class="flourish-embed flourish-map" data-src="visualisation/2362473" data-url="https://flo.uri.sh/visualisation/2362473/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

@@ -25,6 +25,9 @@ Together, our findings indicate that IDS preference likely makes a similar contr
 ### Leads
 [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein)
 
+### Collaborators
+<div class="flourish-embed flourish-map" data-src="visualisation/2520162" data-url="https://flo.uri.sh/visualisation/2520162/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### Status
 Stage 2 Registered Report under review.
 

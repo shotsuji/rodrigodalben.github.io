@@ -16,6 +16,8 @@ Familiarity and novelty effects are the cornerstone of many infant behavioral me
 ### Leads
 [Jessica Kosie](http://babylab.princeton.edu/articles/people#272), [Martin Zettersten](https://martinzettersten.weebly.com/), [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), and [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams).
 
+<div class="flourish-embed flourish-map" data-src="visualisation/2520309" data-url="https://flo.uri.sh/visualisation/2520309/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### Status
 Evaluating potential experimental designs; preparing a call for participation.
 

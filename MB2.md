@@ -17,6 +17,9 @@ In this ongoing project we aim to investigate a fundamental feature of human soc
 ### Leads
 [Hannes Rakoczy](https://www.psych.uni-goettingen.de/en/development/team/rakoczy-hannes)
 
+### Collaborators
+<div class="flourish-embed flourish-map" data-src="visualisation/2520253" data-url="https://flo.uri.sh/visualisation/2520253/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### Status
 Stage 1 Registered Report under review.
 
