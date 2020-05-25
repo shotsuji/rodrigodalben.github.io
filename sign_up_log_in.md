@@ -39,11 +39,11 @@ We are working with the [Psychological Accelerator](https://psysciacc.org/) team
 
 ##### Main projects
 * MB1: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Michael Frank](mailto:mcfrank@stanford.edu), [Melanie Soderstrom](mailto:M_Soderstrom@umanitoba.ca).
-* MB2: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies2), [Hannes Rakoczy](hrakocz@uni-goettingen.de).
+* MB2: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies2), [Hannes Rakoczy](mailto:hrakocz@uni-goettingen.de).
 * MB3: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies3), [Ingmar Visser](mailto:I.Visser@uva.nl), [Clartje Levelt](mailto:c.c.levelt@hum.leidenuniv.nl).
 * MB4: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies4), [Kelsey Lucca](mailto:Kelsey.Lucca@asu.edu), [Kiley Hamlin](mailto:kiley.hamlin@psych.ubc.ca).
 * MB5: [Jessica Kosie](mailto:jkosie@princeton.edu), [Martin Zettersten](mailto:zettersten@wisc.edu), [Christina Bergmann](mailto:Christina.Bergmann@mpi.nl), [Casey Lew-Williams](mailto:caseylw@princeton.edu).
-* MB-AtHome: [Lorijn Zaadnoordijk](mailto:Lorijn.Zaadnoordijk@tcd.ie), [Sho Tsuji](mailto:tsujish@gmail.com), [Christina Bergmann](mailto:Christina.Bergmann@mpi.nl), [Rhodri Cusack](mailto:rhodricusack [at] cusacklab.org).
+* MB-AtHome: [Lorijn Zaadnoordijk](mailto:Lorijn.Zaadnoordijk@tcd.ie), [Sho Tsuji](mailto:tsujish@gmail.com), [Christina Bergmann](mailto:Christina.Bergmann@mpi.nl), [Rhodri Cusack](mailto:rhodricusack@cusacklab.org).
 
 ##### Spin-offs
 * MB1A: [Angeline Tsui](mailto:astsui@stanford.edu), [Casey Lew-Williams](mailto:caseylw@princeton.edu), [Michael Frank](mailto:mcfrank@stanford.edu).

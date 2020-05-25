@@ -8,8 +8,9 @@ subtitle: Infant-directed Speech Preference
 To-do:
 - replace image placeholders.
 - Add high resolution plot.
-- add collaborators map.
-- Esther suggestion: "It would be cool to highlight the numbers a bit more on the mb 1 page – maybe a “project at a glance” element with 69 labs, XY babies, etc etc. I’m thinking of something like this: https://attalitech.com/ The second element on there with “Services include” has columns that could be used to highlight numbers."; github repository for attali website: https://github.com/daattali/attalitech
+
+Suggestion:
+- Esther suggestion: "It would be cool to highlight the numbers a bit more on the   mb 1 page – maybe a “project at a glance” element with 69 labs, XY babies, etc etc. I’m thinking of something like this: https://attalitech.com/ The second element on there with “Services include” has columns that could be used to highlight numbers."; github repository for attali website: https://github.com/daattali/attalitech
 
 Notes:
 - add img html syntax:
